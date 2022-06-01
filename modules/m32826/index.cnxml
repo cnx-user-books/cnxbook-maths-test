@@ -1,0 +1,2493 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Geometrical Optics - Grade 10</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32826</md:content-id>
+  <md:title>Geometrical Optics - Grade 10</md:title>
+  <md:abstract/>
+  <md:uuid>e369ef61-c03e-4046-b244-b0311a6de273</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id178613">You are indoors on a sunny day. A beam of sunlight through a window lights up a section of the floor. How would you draw this sunbeam? You might draw a series of parallel lines showing the path of the sunlight from the window to the floor. This is not exactly accurate – no matter how hard you look, you will not find unique lines of light in the sunbeam! However, this is a good way to draw light. It is also a good way to model light geometrically, as we will see in this chapter.</para>
+      <para id="id178625">These narrow, imaginary lines of light are called <emphasis effect="bold">light rays</emphasis>. Since light is an electromagnetic wave, you could think of a light ray as the path of a point on the crest of a wave. Or, you could think of a light ray as the path taken by a miniscule particle that carries light. We will always draw them the same way: as straight lines between objects, images, and optical devices.</para>
+      <para id="id178975">We can use light rays to model mirrors, lenses, telescopes, microscopes, and prisms. The study of how light interacts with materials is <emphasis effect="bold">optics</emphasis>. When dealing with light rays, we are usually interested in the shape of a material and the angles at which light rays hit it. From these angles, we can work out, for example, the distance between an object and its reflection. We therefore refer to this kind of optics as <emphasis effect="bold">geometrical optics</emphasis>.</para>
+    </section>
+    <section id="cid3">
+      <title>Light Rays</title>
+      <para id="id179000">In physics we use the idea of a <emphasis effect="italics">light ray</emphasis> to indicate the direction that light travels. Light rays are lines with arrows and are used to show the path that light travels. In <link target-id="uid1"/>, the light rays from the object enters the eye and the eye <emphasis effect="italics">sees</emphasis> the object.</para>
+      <para id="id179021">The most important thing to remember is that we can only see an object when light from the object enters our eyes. The object must be a source of light (for example a light bulb) or else it must reflect light from a source (for example the moon), and the reflected light enters our eyes.</para>
+<note id="notfhsst_id83" type="tip">We cannot see an object unless light from that object enters our eyes.</note>
+<definition id="fhsst_id84"><term id="termfhsst_id84"> Light ray </term> <meaning id="meaningfhsst_id84">
+      <para id="id179039">Light rays are straight lines with arrows to show the path of light. </para>
+      </meaning></definition>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_001.png" id="uid1_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_001.eps" id="uid1_printimage"/>
+        </media>
+        <caption>We can only see an object when light from that object enters our eyes. We draw light as lines with arrows to show the direction the light travels. When the light travels from the object to the eye, the eye can see the object. Light rays entering the eye from the cart are shown as dashed lines. The second wheel of the cart will be invisible as no straight, unobstructed lines exist between it and the eye.</caption>
+      </figure>
+<note id="notfhsst_id94" type="tip">Light rays are not an exact description of a general source of light. They are merely used to show the path that light travels.</note>
+<section id="secfhsst_id95"><title> Investigation : Light travels in straight lines </title>
+      <para id="id179078">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id179087">
+You will need a candle, matches and three sheets of paper.</para>
+      <para id="id179093">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id179101" display="block" list-type="enumerated">
+        <item id="uid2">Make a small hole in the middle of each of the three sheets of paper.
+</item>
+        <item id="uid3">Light the candle.
+</item>
+        <item id="uid4">Look at the burning candle through the hole in the first sheet of paper.
+</item>
+        <item id="uid5">Place the second sheet of paper between you and the candle so that you can still see the candle through the holes.
+</item>
+        <item id="uid6">Now do the same with the third sheet so that you can still see the candle. The sheets of paper must not touch each other.
+<figure id="uid7"><media id="uid7_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_002.png" id="uid7_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_002.eps" id="uid7_printimage"/></media><caption>Light travels in straight lines</caption></figure></item>
+        <item id="uid8">What do you notice about the holes in the paper?
+</item>
+      </list>
+      <para id="id179189">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id179197">
+In the investigation you will notice that the holes in the paper need to be in a straight line. This shows that light travels in a straight line. We cannot see around corners. This also proves that light does not bend around a corner, but travels straight.
+ </para>
+</section>
+<section id="secfhsst_id125"><title> Investigation : Light travels in straight lines </title>
+      <para id="id179217">On a sunny day, stand outside and look at something in the distance, for example a tree, a flower or a car. From what we have learnt, we can see the tree, flower or car because light from the object is entering our eye. Now take a sheet of paper and hold it about 20 cm in front of your face. Can you still see the tree, flower or car? Why not? </para>
+</section>
+      <para id="id179233"><link target-id="uid9"/> shows that a sheet of paper in front of your eye prevents light rays from reaching your eye.</para>
+      <figure id="uid9">
+        <media id="uid9_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_003.png" id="uid9_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_003.eps" id="uid9_printimage"/>
+        </media>
+        <caption>The sheet of paper prevents the light rays from reaching the eye, and the eye cannot see the object.</caption>
+      </figure>
+      <section id="uid10">
+        <title>Shadows</title>
+        <para id="id179262">Objects cast shadows when light shines on them. This is more evidence that light travels in straight lines. The picture below shows how shadows are formed.</para>
+        <para id="id179267">
+          <figure id="id179270">
+            <media id="id179270_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_004.png" id="id179270_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_004.eps" id="id179270_printimage"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="uid11">
+        <title>Ray Diagrams</title>
+        <para id="id179285">A ray diagram is a drawing that shows the path of light rays. Light rays are drawn using straight lines and arrow heads. The figure below shows some examples of ray diagrams.</para>
+        <para id="id179290">
+          <figure id="id179293">
+            <media id="id179293_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_005.png" id="id179293_onlineimage" width="103"><!-- NOTE: attribute width changes image size online (pixels). original width is 103. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_005.eps" id="id179293_printimage"/>
+            </media>
+          </figure>
+          <figure id="id179299">
+            <media id="id179299_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_006.png" id="id179299_onlineimage" width="118"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_006.eps" id="id179299_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <!--empty paragraphs get left behind.-->
+<section id="secfhsst_id166"><title> Light Rays </title>
+        <list id="id179316" display="block" list-type="enumerated"><item id="uid13">Give evidence to support the statement: “Light travels in straight lines”. Draw a ray diagram to prove this.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrt">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid4">
+      <title>Reflection</title>
+      <para id="id179375">When you smile into a mirror, you see your own face smiling back at you. This is caused by the reflection of light rays on the mirror. Reflection occurs when a light ray bounces off a surface.</para>
+      <section id="uid15">
+        <title>Terminology</title>
+        <para id="id179388">In <link document="m35714">Transverse Pulses</link> and <link document="m32635">Transverse Waves</link> we saw that when a pulse or wave strikes a surface it is <emphasis effect="italics">reflected</emphasis>. This means that waves bounce off things. Sound waves bounce off walls, light waves bounce off mirrors, radar waves bounce off aeroplanes and it can explain how bats can fly at night and avoid things as thin as telephone wires. The phenomenon of reflection is a very important and useful one.</para>
+        <para id="id179404">We will use the following terminology. The incoming light ray is called the <emphasis effect="bold">incident ray</emphasis>. The light ray moving away from the surface is the <emphasis effect="bold">reflected ray</emphasis>. The most important characteristic of these rays is their angles in relation to the reflecting surface. These angles are measured with respect to the normal of the surface. The <emphasis effect="bold">normal</emphasis> is an imaginary line perpendicular to the surface. The <emphasis effect="bold">angle of incidence, <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>i</m:mi></m:msub></m:math></emphasis> is measured between the incident ray and the surface normal. The <emphasis effect="bold">angle of reflection, <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>r</m:mi></m:msub></m:math></emphasis> is measured between the reflected ray and the surface normal. This is shown in <link target-id="uid16"/>.</para>
+        <para id="id179468">When a ray of light is reflected, the reflected ray lies in the same plane as the incident ray and the normal. This plane is called the <emphasis effect="bold">plane of incidence</emphasis> and is shown in <link target-id="uid17"/>.</para>
+        <figure id="uid16">
+          <media id="uid16_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_007.png" id="uid16_onlineimage" width="354"><!-- NOTE: attribute width changes image size online (pixels). original width is 354. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_007.eps" id="uid16_printimage"/>
+          </media>
+          <caption>The angles of incidence and reflection are measured with respect to the surface normal.</caption>
+        </figure>
+        <figure id="uid17">
+          <media id="uid17_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_008.png" id="uid17_onlineimage" width="505"><!-- NOTE: attribute width changes image size online (pixels). original width is 505. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_008.eps" id="uid17_printimage"/>
+          </media>
+          <caption>The plane of incidence is the plane including the incident ray, reflected ray, and the surface normal.</caption>
+        </figure>
+      </section>
+      <section id="uid18">
+        <title>Law of Reflection</title>
+        <para id="id178537">The <emphasis effect="bold">Law of Reflection</emphasis> states that the angles of incidence and reflection are always equal and that the reflected ray always lies in the plane of incidence.</para>
+<definition id="fhsst_id205"><term id="termfhsst_id205"> Law of Reflection </term> <meaning id="meaningfhsst_id205">
+        <para id="id178552">The Law of Reflection states that the angle of incidence is equal to the angle of reflection.</para>
+        <equation id="id179717">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mi>r</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </meaning></definition>
+        <para id="id179753">The simplest example of the law of incidence is if the angle of incidence is <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. In this case, the angle of reflection is also <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. You see this when you look straight into a mirror.</para>
+        <figure id="uid19">
+          <media id="uid19_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_009.png" id="uid19_onlineimage" width="213"><!-- NOTE: attribute width changes image size online (pixels). original width is 213. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_009.eps" id="uid19_printimage"/>
+          </media>
+          <caption>When a wave strikes a surface at right angles to the surface, then the wave is reflected directly back.</caption>
+        </figure>
+        <para id="id179796">If the angle of incidence is not <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>, then the angle of reflection is also not <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. For example, if a light strikes a surface at <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> to the surface normal, then the angle that the reflected ray makes with the surface normal is also <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> as shown in <link target-id="uid20"/>.</para>
+        <figure id="uid20">
+          <media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_010.png" id="uid20_onlineimage" width="125"><!-- NOTE: attribute width changes image size online (pixels). original width is 125. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_010.eps" id="uid20_printimage"/>
+          </media>
+          <caption>Ray diagram showing angle of incidence and angle of reflection. The Law of Reflection states that when a light ray reflects off a surface, the angle of reflection <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>r</m:mi></m:msub></m:math> is the same as the angle of incidence <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>i</m:mi></m:msub></m:math>.</caption>
+        </figure>
+<exercise id="secfhsst_id240"><title> Law of Reflection </title>
+        <problem id="probfhsst_id241">
+        <para id="id179910">An incident ray strikes a smooth reflective surface at an angle of 33<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal. Calculate the angle of reflection. </para>
+        </problem>
+        <solution id="solfhsst_id244"> <list id="listfhsst_id244" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id179946">We are given the angle between the incident ray and the surface normal. This is the angle of incidence.</para>
+        <para id="id179950">We are required to calculate the angle of reflection.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id179958">We can use the Law of Reflection, which states that the angle of incidence is equal to the angle of reflection.</para>
+        </item> <item> <label> Calculate the angle of reflection </label>
+        <para id="id179966">We are given the angle of incidence to be 33<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Therefore, the angle of reflection is also 33<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid21">
+        <title>Types of Reflection</title>
+        <para id="id180015">The Law of Reflection holds for every light ray. Does this mean that when parallel rays approach a surface, the reflected rays will also be parallel? This depends on the texture of the reflecting surface.</para>
+        <figure id="uid22" orient="vertical">
+          <subfigure id="id180031">
+            <media id="id180031_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_011.png" id="id180031_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 200. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_011.eps" id="id180031_printimage"/>
+            </media>
+          </subfigure>
+          <subfigure id="id180039">
+            <media id="id180039_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_012.png" id="id180039_onlineimage" width="240"><!-- NOTE: attribute width changes image size online (pixels). original width is 240. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_012.eps" id="id180039_printimage"/>
+            </media>
+          </subfigure>
+          <caption>Specular and diffuse reflection.</caption>
+        </figure>
+        <section id="uid23">
+          <title>Specular Reflection</title>
+          <para id="id180054"><link target-id="uid22"/>(a) shows a surface that is flat and even. Parallel incident light rays hit the smooth surface and parallel reflected light rays leave the surface. This type of reflection is called <emphasis effect="bold">specular reflection</emphasis>. Specular reflection occurs when rays are reflected from a smooth, shiny surface. The normal to the surface is the same at every point on the surface. Parallel incident rays become parallel reflected rays. When you look in a mirror, the image you see is formed by specular reflection.</para>
+        </section>
+        <section id="uid24">
+          <title>Diffuse Reflection</title>
+          <para id="id180080"><link target-id="uid22"/>(b) shows a surface with bumps and curves. When multiple rays hit this uneven surface, <emphasis effect="bold">diffuse reflection</emphasis> occurs. The incident rays are parallel but the reflected rays are not. Each point on the surface has a different normal. This means the angle of incidence is different at each point. Then according to the Law of Reflection, each angle of reflection is different. Diffuse reflection occurs when light rays are reflected from bumpy surfaces. You can still see a reflection as long as the surface is not too bumpy. Diffuse reflection enables us to see all objects that are not sources of light.</para>
+<section id="secfhsst_id280"><title> Experiment : Specular and Diffuse Reflection </title>
+          <para id="id180104">A bouncing ball can be used to demonstrate the basic difference between specular and diffuse reflection.</para>
+          <para id="id180113">
+            <emphasis effect="bold">Aim:</emphasis>
+          </para>
+          <para id="id180121">To demonstrate and compare specular and diffuse reflection.</para>
+          <para id="id180127">
+            <emphasis effect="bold">Apparatus:</emphasis>
+          </para>
+          <para id="id180135">
+You will need:</para>
+          <list id="id180140" display="block" list-type="enumerated">
+            <item id="uid25">a small ball (a tennis ball or a table tennis ball is perfect)
+</item>
+            <item id="uid26">a smooth surface, like the floor inside the classroom
+</item>
+            <item id="uid27">a very rough surface, like a rocky piece of ground
+</item>
+          </list>
+          <para id="id180180">
+            <emphasis effect="bold">Method:</emphasis>
+          </para>
+          <list id="id180188" display="block" list-type="enumerated">
+            <item id="uid28">Bounce the ball on the smooth floor and observe what happens.
+</item>
+            <item id="uid29">Bounce the ball on the rough ground floor and observe what happens.
+</item>
+            <item id="uid30">What do you observe?
+</item>
+            <item id="uid31">What is the difference between the two surfaces?
+</item>
+          </list>
+          <para id="id180240">
+            <emphasis effect="bold">Conclusions:</emphasis>
+          </para>
+          <para id="id180248">
+You should have seen that the ball bounces (is reflected off the floor) in a predictable manner off the smooth floor, but bounces unpredictably on the rough ground.</para>
+          <para id="id180255">The ball can be seen to be a ray of light and the floor or ground is the reflecting surface. For specular reflection (smooth surface), the ball bounces predictably. For diffuse reflection (rough surface), the ball bounces unpredictably.
+ </para>
+</section>
+<section id="secfhsst_id320"><title> Reflection </title>
+          <list id="id180272" display="block" list-type="enumerated"><item id="uid32">The diagram shows a curved surface. Draw normals to the surface at the marked points.
+<figure id="id180290"><media id="id180290_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_013.png" id="id180290_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_013.eps" id="id180290_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrz">Click here for the solution.</link></item>
+            <item id="uid33">Which of the points, A–H, in the diagram, correspond to the following:
+<list id="id180309" display="block" list-type="enumerated"><item id="uid34">normal
+</item><item id="uid35">angle of incidence
+</item><item id="uid36">angle of reflection
+</item><item id="uid37">incident ray
+</item><item id="uid38">reflected ray
+</item></list><figure id="id180373"><media id="id180373_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_014.png" id="id180373_onlineimage" width="114"><!-- NOTE: attribute width changes image size online (pixels). original width is 114. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_014.eps" id="id180373_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lru">Click here for the solution.</link></item>
+            <item id="uid39">State the Law of Reflection. Draw a diagram, label the appropriate angles and write a mathematical expression for the Law of Reflection.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrJ">Click here for the solution.</link>
+</item>
+            <item id="uid41">The diagram shows an incident ray <m:math overflow="scroll"><m:mi>I</m:mi></m:math>. Which of the other 5 rays (A, B, C, D, E) best represents the reflected ray of <m:math overflow="scroll"><m:mi>I</m:mi></m:math>?
+<figure id="id180439"><media id="id180439_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_015.png" id="id180439_onlineimage" width="130"><!-- NOTE: attribute width changes image size online (pixels). original width is 130. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_015.eps" id="id180439_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrS">Click here for the solution.</link></item>
+            <item id="uid42">A ray of light strikes a surface at 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal. Draw a ray diagram showing the incident ray, reflected ray and surface normal. Calculate the angles of incidence and reflection and fill them in on your diagram.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrh">Click here for the solution.</link>
+</item>
+            <item id="uid45">A ray of light leaves a surface at 65<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface. Draw a ray diagram showing the incident ray, reflected ray and surface normal. Calculate the angles of incidence and reflection and fill them in on your diagram.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYg">Click here for the solution.</link>
+</item>
+            <item id="uid46">Explain the difference between specular and diffuse reflection.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYl">Click here for the solution.</link>
+</item>
+            <item id="uid47">We see an object when the light that is reflected by the object enters our eyes. Do you think the reflection by most objects is specular reflection or diffuse reflection? Explain.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYi">Click here for the solution.</link>
+</item>
+            <item id="uid48">A beam of light (for example from a torch) is generally not visible at night, as it travels through air. Try this for yourself. However, if you shine the torch through dust, the beam is visible. Explain why this happens.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY3">Click here for the solution.</link>
+</item>          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+    <section id="cid5">
+      <title>Refraction</title>
+      <para id="id180671">In the previous sections we studied light reflecting off various surfaces. What happens when light passes <emphasis effect="italics">through</emphasis> a medium? The speed of light, like that of all waves, is dependent on the medium in which it is travelling. When light moves from one medium into another (for example, from air to glass), the speed of light changes. The effect is that the light ray passing into a new medium is <emphasis effect="bold">refracted</emphasis>, or bent. Refraction is therefore the bending of light as it moves from one optical medium to another.</para>
+<definition id="fhsst_id366"><term id="termfhsst_id366"> Refraction </term> <meaning id="meaningfhsst_id366">
+      <para id="id180696">Refraction is the bending of light that occurs because light travels at different speeds in different materials. </para>
+      </meaning></definition>
+      <para id="id180709">When light travels from one medium to another, it will be bent away from its original path. When it travels from an optically dense medium like water or glass to a less dense medium like air, it will be refracted away from the normal (<link target-id="uid53"/>). Whereas, if it travels from a less dense medium to a denser one, it will be refracted towards the normal (<link target-id="uid54"/>).</para>
+      <figure id="uid53">
+        <media id="uid53_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_016.png" id="uid53_onlineimage" width="352"><!-- NOTE: attribute width changes image size online (pixels). original width is 352. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_016.eps" id="uid53_printimage"/>
+        </media>
+        <caption>Light is moving from an optically dense medium to an optically less dense medium. Light is refracted away from the normal.</caption>
+      </figure>
+      <figure id="uid54">
+        <media id="uid54_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C6_017.png" id="uid54_onlineimage" width="348"><!-- NOTE: attribute width changes image size online (pixels). original width is 348. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_017.eps" id="uid54_printimage"/>
+        </media>
+        <caption>Light is moving from an optically less dense medium to an optically denser medium. Light is refracted towards the normal.</caption>
+      </figure>
+      <para id="id180750">Just as we defined an angle of reflection in the previous section, we can similarly define an angle of refraction as the angle between the surface normal and the refracted ray. This is shown in <link target-id="uid55"/>.</para>
+      <figure id="uid55" orient="vertical">
+        <subfigure id="id180783">
+          <media id="id180783_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_018.png" id="id180783_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_018.eps" id="id180783_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id180790">
+          <media id="id180790_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_019.png" id="id180790_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_019.eps" id="id180790_printimage"/>
+          </media>
+        </subfigure>
+        <caption>Light moving from one medium to another bends towards or away from the surface normal. The angle of refraction <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is shown.</caption>
+      </figure>
+      <section id="uid56">
+        <title>Refractive Index</title>
+        <para id="id180806">Which is easier to travel through, air or water? People usually travel faster through air. So does light! The speed of light and therefore the degree of bending of the light depends on the <emphasis effect="italics">refractive index</emphasis> of material through which the light passes. The refractive index (symbol <m:math overflow="scroll"><m:mi>n</m:mi></m:math>) is the ratio of the speed of light in a vacuum to its speed in the material.</para>
+<definition id="fhsst_id403"><term id="termfhsst_id403"> Refractive Index </term> <meaning id="meaningfhsst_id403">
+        <para id="id180834">The refractive index of a material is the ratio of the speed of light in a vacuum to its speed in the medium. </para>
+        </meaning></definition>
+<note id="notfhsst_id406"><title> Interesting Fact </title>
+        <para id="id180852">The symbol <m:math overflow="scroll"><m:mi>c</m:mi></m:math> is used to represent the speed of light in a vacuum.</para>
+        <equation id="id180868">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>c</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>299</m:mn>
+              <m:mspace width="0.277778em"/>
+              <m:mn>792</m:mn>
+              <m:mspace width="0.277778em"/>
+              <m:mn>485</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">m</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id180917">For purposes of calculation, we use <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. A vacuum is a region with no matter in it, not even air. However, the speed of light in air is very close to that in a vacuum.</para>
+</note>
+<definition id="fhsst_id433"><term id="termfhsst_id433"> Refractive Index </term> <meaning id="meaningfhsst_id433">
+        <para id="id180979">The refractive index (symbol <m:math overflow="scroll"><m:mi>n</m:mi></m:math>) of a material is the ratio of the speed of light in a vacuum to its speed in the material and gives an indication of how difficult it is for light to get through the material.</para>
+        <equation id="id180996">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>c</m:mi>
+                <m:mi>v</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id181016">where</para>
+        <table id="id181019" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><m:math overflow="scroll"><m:mi>n</m:mi></m:math> =</entry>
+                <entry>refractive index (no unit)</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mi>c</m:mi></m:math> =</entry>
+                <entry>speed of light in a vacuum (<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>00</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mi>v</m:mi></m:math> =</entry>
+                <entry>speed of light in a given medium (<m:math overflow="scroll"><m:mrow><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        
+        </meaning></definition>
+<section id="secfhsst_id468"><title> Refractive Index and Speed of Light </title>
+        <para id="id181176">Using</para>
+        <equation id="id181182">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>c</m:mi>
+                <m:mi>v</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id181203">we can also examine how the speed of light changes in different media, because the speed of light in a vacuum (<m:math overflow="scroll"><m:mi>c</m:mi></m:math>) is constant.</para>
+        <para id="id181218">If the refractive index <m:math overflow="scroll"><m:mi>n</m:mi></m:math> increases, the speed of light in the material <m:math overflow="scroll"><m:mi>v</m:mi></m:math> must decrease. Light therefore travels slowly through materials of high <m:math overflow="scroll"><m:mi>n</m:mi></m:math>. </para>
+</section>
+        <para id="id181254"><link target-id="uid57"/> shows refractive indices for various materials. Light travels slower in any material than it does in a vacuum, so all values for <m:math overflow="scroll"><m:mi>n</m:mi></m:math> are greater than 1.</para>
+        <table id="uid57" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Medium</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Refractive Index</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Vacuum</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Helium</entry>
+                <entry>1,000036</entry>
+              </row>
+              <row>
+                <entry>Air*</entry>
+                <entry>1,0002926</entry>
+              </row>
+              <row>
+                <entry>Carbon dioxide</entry>
+                <entry>1,00045</entry>
+              </row>
+              <row>
+                <entry>Water: Ice</entry>
+                <entry>1,31</entry>
+              </row>
+              <row>
+                <entry>Water: Liquid (<m:math overflow="scroll"><m:msup><m:mn>20</m:mn><m:mo>∘</m:mo></m:msup></m:math>C)</entry>
+                <entry>1,333</entry>
+              </row>
+              <row>
+                <entry>Acetone</entry>
+                <entry>1,36</entry>
+              </row>
+              <row>
+                <entry>Ethyl Alcohol (Ethanol)</entry>
+                <entry>1,36</entry>
+              </row>
+              <row>
+                <entry>Sugar solution (30%)</entry>
+                <entry>1,38</entry>
+              </row>
+              <row>
+                <entry>Fused quartz</entry>
+                <entry>1,46</entry>
+              </row>
+              <row>
+                <entry>Glycerine</entry>
+                <entry>1,4729</entry>
+              </row>
+              <row>
+                <entry>Sugar solution (80%)</entry>
+                <entry>1,49</entry>
+              </row>
+              <row>
+                <entry>Rock salt</entry>
+                <entry>1,516</entry>
+              </row>
+              <row>
+                <entry>Crown Glass</entry>
+                <entry>1,52</entry>
+              </row>
+              <row>
+                <entry>Sodium chloride</entry>
+                <entry>1,54</entry>
+              </row>
+              <row>
+                <entry>Polystyrene</entry>
+                <entry>1,55 to 1,59</entry>
+              </row>
+              <row>
+                <entry>Bromine</entry>
+                <entry>1,661</entry>
+              </row>
+              <row>
+                <entry>Sapphire</entry>
+                <entry>1,77</entry>
+              </row>
+              <row>
+                <entry>Glass (typical)</entry>
+                <entry>1,5 to 1,9</entry>
+              </row>
+              <row>
+                <entry>Cubic zirconia</entry>
+                <entry>2,15 to 2,18</entry>
+              </row>
+              <row>
+                <entry>Diamond</entry>
+                <entry>2,419</entry>
+              </row>
+              <row>
+                <entry>Silicon</entry>
+                <entry>4,01</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Refractive indices of some materials. <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mi> air </m:mi></m:msub></m:math> is calculated at STP.</caption>
+        </table>
+      </section>
+      <section id="uid58">
+        <title>Snell's Law</title>
+        <para id="id181781">Now that we know that the degree of bending, or the angle of refraction, is dependent on the refractive index of a medium, how do we calculate the angle of refraction?</para>
+        <para id="id181785">The angles of incidence and refraction when light travels from one medium to another can be calculated using Snell's Law.</para>
+<definition id="fhsst_id594"><term id="termfhsst_id594"> Snell's Law </term> <meaning id="meaningfhsst_id594">
+        <equation id="id181796">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id181847">where</para>
+        <table id="id181851" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub></m:math> =</entry>
+                <entry>Refractive index of material 1</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub></m:math> =</entry>
+                <entry>Refractive index of material 2</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub></m:math> =</entry>
+                <entry>Angle of incidence</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:math> =</entry>
+                <entry>Angle of refraction</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        
+        </meaning></definition>
+        <para id="id181965">Remember that angles of incidence and refraction are measured from the normal, which is an imaginary line perpendicular to the surface.</para>
+        <para id="id181969">Suppose we have two media with refractive indices <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub></m:math>. A light ray is incident on the surface between these materials with an <emphasis effect="bold">angle of incidence <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub></m:math></emphasis>. The refracted ray that passes through the second medium will have an <emphasis effect="bold">angle of refraction <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:math></emphasis>.</para>
+<exercise id="secfhsst_id648"><title> Using Snell's Law </title>
+        <problem id="probfhsst_id649">
+        <para id="id182053">A light ray with an angle of incidence of 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> passes from water to air. Find the angle of refraction using Snell's Law and <link target-id="uid57"/>. Discuss the meaning of your answer. </para>
+        </problem>
+        <solution id="solfhsst_id652"> <list id="listfhsst_id652" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the refractive indices of water and air </label>
+        <para id="id182096">From <link target-id="uid57"/>, the refractive index is 1,333 for water and about 1 for air. We know the angle of incidence, so we are ready to use Snell's Law.</para>
+        </item> <item> <label> Substitute values </label>
+        <para id="id182109">According to Snell's Law:</para>
+        <equation id="id182113">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>35</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>763</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>θ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>49</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>7</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> or </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>130</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>3</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id182308">Since <m:math overflow="scroll"><m:mrow><m:mn>130</m:mn><m:mo>,</m:mo><m:msup><m:mn>3</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> is larger than <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, the solution is:</para>
+        <equation id="id182348">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>θ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>49</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>7</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Discuss the answer </label>
+        <para id="id182395">The light ray passes from a medium of high refractive index to one of low refractive index. Therefore, the light ray is bent away from the normal. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id804"><title> Using Snell's Law </title>
+        <problem id="probfhsst_id805">
+        <para id="id182425">A light ray passes from water to diamond with an angle of incidence of <m:math overflow="scroll"><m:msup><m:mn>75</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Calculate the angle of refraction. Discuss the meaning of your answer. </para>
+        </problem>
+        <solution id="solfhsst_id808"> <list id="listfhsst_id808" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the refractive indices of water and air </label>
+        <para id="id182464">From <link target-id="uid57"/>, the refractive index is 1,333 for water and 2,42 for diamond. We know the angle of incidence, so we are ready to use Snell's Law.</para>
+        </item> <item> <label> Substitute values and solve </label>
+        <para id="id182477">According to Snell's Law:</para>
+        <equation id="id182480">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>75</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>42</m:mn>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>531</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>θ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>32</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>1</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Discuss the answer </label>
+        <para id="id182664">The light ray passes from a medium of low refractive index to one of high refractive index. Therefore, the light ray is bent towards the normal. </para>
+        </item> </list> </solution>
+</exercise>
+        <para id="id182681">If</para>
+        <equation id="id182684">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>&gt;</m:mo>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182711">then from Snell's Law,</para>
+        <equation id="id182717">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&gt;</m:mo>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182755">For angles smaller than <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> increases as <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> increases. Therefore,</para>
+        <equation id="id182800">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&gt;</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182829">This means that the angle of incidence is greater than the angle of refraction and the light ray is bent toward the normal.</para>
+        <para id="id182836">Similarly, if</para>
+        <equation id="id182839">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>&lt;</m:mo>
+              <m:msub>
+                <m:mi>n</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182867">then from Snell's Law,</para>
+        <equation id="id182872">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&lt;</m:mo>
+              <m:mo form="prefix">sin</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182910">For angles smaller than <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> increases as <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> increases. Therefore,</para>
+        <equation id="id182955">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>&lt;</m:mo>
+              <m:msub>
+                <m:mi>θ</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id182984">This means that the angle of incidence is less than the angle of refraction and the light ray is away toward the normal.</para>
+        <para id="id182990">Both these situations can be seen in <link target-id="uid59"/>.</para>
+        <figure id="uid59" orient="vertical">
+          <subfigure id="id183013">
+            <media id="id183013_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_020.png" id="id183013_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_020.eps" id="id183013_printimage"/>
+            </media>
+          </subfigure>
+          <subfigure id="id183020">
+            <media id="id183020_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_021.png" id="id183020_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_021.eps" id="id183020_printimage"/>
+            </media>
+          </subfigure>
+          <caption>Refraction of two light rays. (a) A ray travels from a medium of low refractive index to one of high refractive index. The ray is bent towards the normal. (b) A ray travels from a medium with a high refractive index to one with a low refractive index. The ray is bent away from the normal.</caption>
+        </figure>
+        <para id="id183028">What happens to a ray that lies along the normal line? In this case, the angle of incidence is <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math> and</para>
+        <equation id="id183047">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>0</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id183148">This shows that if the light ray is incident at <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>, then the angle of refraction is also <m:math overflow="scroll"><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup></m:math>. The ray passes through the surface unchanged, i.e. no refraction occurs.</para>
+<section id="secfhsst_id1116"><title> Investigation : Snell's Law 1 </title>
+        <para id="id183191">The angles of incidence and refraction were measured in five unknown media and recorded in the table below. Use your knowledge about Snell's Law to identify each of the unknown media A - E. Use <link target-id="uid57"/> to help you.</para>
+        <table id="id183204" summary="">
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Medium 1</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:math>
+                  </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Unknown Medium</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Air</entry>
+                <entry>1,000036</entry>
+                <entry>38</entry>
+                <entry>11,6</entry>
+                <entry>?</entry>
+                <entry>A</entry>
+              </row>
+              <row>
+                <entry>Air</entry>
+                <entry>1,000036</entry>
+                <entry>65</entry>
+                <entry>38,4</entry>
+                <entry>?</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>Vacuum</entry>
+                <entry>1</entry>
+                <entry>44</entry>
+                <entry>0,419</entry>
+                <entry>?</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>Air</entry>
+                <entry>1,000036</entry>
+                <entry>15</entry>
+                <entry>29,3</entry>
+                <entry>?</entry>
+                <entry>D</entry>
+              </row>
+              <row>
+                <entry>Vacuum</entry>
+                <entry>1</entry>
+                <entry>20</entry>
+                <entry>36,9</entry>
+                <entry>?</entry>
+                <entry>E</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        
+</section>
+<section id="secfhsst_id1215"><title> Investigation : Snell's Law 2 </title>
+        <para id="id183614">Zingi and Tumi performed an investigation to identify an unknown liquid. They shone a beam of light into the unknown liquid, varying the angle of incidence and recording the angle of refraction. Their results are recorded in the following table:</para>
+        <table id="id183621" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Angle of Incidence</entry>
+                <entry>Angle of Refraction</entry>
+              </row>
+              <row>
+                <entry>0,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>0,00<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>5,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>3,76<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>10,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>7,50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>15,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>11,2<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>20,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>14,9<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>25,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>18,5<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>30,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>22,1<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>35,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>25,5<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>40,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>28,9<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>45,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>32,1<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>50,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>35,2<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>55,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>38,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>60,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>40,6<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>65,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>43,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>70,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+              <row>
+                <entry>75,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+              <row>
+                <entry>80,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+              <row>
+                <entry>85,0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></entry>
+                <entry>?</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id184385" display="block" list-type="enumerated">
+          <item id="uid60">Write down an aim for the investigation.
+</item>
+          <item id="uid61">Make a list of all the apparatus they used.
+</item>
+          <item id="uid62">Identify the unknown liquid.
+</item>
+          <item id="uid63">Predict what the angle of refraction will be for 70<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, 75<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, 80<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and 85<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+</item>
+        </list>
+        
+</section><para id="eip-173"><figure id="snell-1" class="khanacademy">
+	  <title>Khan academy video on Snell's Law - 1</title>
+	  <media id="yt-media1" display="block" alt="video on snell 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/HahjsBApxLE&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+      </section>
+      <section id="uid64">
+        <title>Apparent Depth</title>
+        <para id="id184511">Imagine a coin on the bottom of a shallow pool of water. If you reach for the coin, you will miss it because the light rays from the coin are refracted at the water's surface.</para>
+        <para id="id184516">Consider a light ray that travels from an underwater object to your eye. The ray is refracted at the water surface and then reaches your eye. Your eye does not know Snell's Law; it assumes light rays travel in straight lines. Your eye therefore sees the image of the at coin shallower location. This shallower location is known as the <emphasis effect="italics">apparent depth</emphasis>.</para>
+        <para id="id184528">The refractive index of a medium can also be expressed as</para>
+        <equation id="id184532"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>real depth</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi>apparent depth</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id184600">
+          <figure id="id184603">
+            <media id="id184603_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_022.png" id="id184603_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 269. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_022.eps" id="id184603_printimage"/>
+            </media>
+          </figure>
+        </para>
+<exercise id="secfhsst_id1363"><title> Apparent Depth 1 </title>
+        <problem id="probfhsst_id1364">
+        <para id="id184623">A coin is placed at the bottom of a 40 cm deep pond. The refractive index for water is 1,33. How deep does the coin appear to be? </para>
+        </problem>
+        <solution id="solfhsst_id1367"> <list id="listfhsst_id1367" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is given and what is asked </label>
+        <para id="id184648">n = 1,33</para>
+        <para id="id184651">real depth = 40 cm</para>
+        <para id="id184657">apparent depth = ?</para>
+        </item> <item> <label> Substitute values and find answer </label>
+        <equation id="id184667"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>real depth</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>apparent depth</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>40</m:mn>
+                    <m:mi>x</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>x</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>40</m:mn>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>33</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>=</m:mo>
+                    <m:mn>30</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>08</m:mn>
+                    <m:mi>c</m:mi>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id184807">The coin appears to be 30,08 cm deep. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1464"><title> Apparent Depth 2 </title>
+        <problem id="probfhsst_id1465">
+        <para id="id184837">A R1 coin appears to be 7 cm deep in a colourless liquid known to be listed in <link target-id="uid57"/>. The depth of the liquid is 10,43 cm.</para>
+        <list id="id184848" display="block" list-type="enumerated">
+          <item id="uid65">Determine the refractive index of the liquid.
+</item>
+          <item id="uid66">Identify the liquid.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1475"> <list id="listfhsst_id1475" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is given and what is asked </label>
+        <para id="id184899">real depth = 7 cm</para>
+        <para id="id184902">apparent depth = 10,43 cm</para>
+        <para id="id184908"><m:math overflow="scroll"><m:mi>n</m:mi></m:math> = ?</para>
+        <para id="id184922">Identify the liquid.</para>
+        </item> <item> <label> Calculate refractive index </label>
+        <equation id="id184931"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>real depth</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>apparent depth</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>43</m:mn>
+                    </m:mrow>
+                    <m:mn>7</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>49</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Identify the liquid </label>
+        <para id="id185048">Use <link target-id="uid57"/>. The liquid is an 80% sugar solution. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1559"><title> Refraction </title>
+        <list id="id185075" display="block" list-type="enumerated"><item id="uid67">Explain refraction in terms of a change of wave speed in different media.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYf">Click here for the solution.</link>
+</item>
+          <item id="uid68">In the diagram, label the following:
+<list id="id185103" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid69">angle of incidence
+</item><item id="uid70">angle of refraction
+</item><item id="uid71">incident ray
+</item><item id="uid72">refracted ray
+</item><item id="uid73">normal
+</item></list><figure id="id185172"><media id="id185172_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_023.png" id="id185172_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_023.eps" id="id185172_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lYs">Click here for the solution.</link></item>
+          <item id="uid74">What is refraction?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYG">Click here for the solution.</link>
+</item>
+          <item id="uid75">Describe what is meant by <emphasis effect="italics">the refractive index of a medium</emphasis>.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY7">Click here for the solution.</link>
+</item>
+          <item id="uid76">State Snell's Law.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYA">Click here for the solution.</link>
+</item>
+          <item id="uid77">In the diagram, a ray of light strikes the interface between two media.
+<figure id="id185242"><media id="id185242_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_024.png" id="id185242_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_024.eps" id="id185242_printimage"/></media></figure>
+Draw what the refracted ray would look like if:
+<list id="id185252" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid78">medium 1 had a higher refractive index than medium 2.
+</item><item id="uid79">medium 1 had a lower refractive index than medium 2.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYH">Click here for the solution.</link></item>
+          <item id="uid80">Light travels from a region of glass into a region of glycerine, making an angle of incidence of 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+<list id="id185308" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid81">Describe the path of the light as it moves into the glycerine.
+</item><item id="uid82">Calculate the angle of refraction.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYo">Click here for the solution.</link></item>
+          <item id="uid83">A ray of light travels from silicon to water. If the ray of light in the water makes an angle of 69<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal, what is the angle of incidence in the silicon?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY6">Click here for the solution.</link>
+</item>
+          <item id="uid84">Light travels from a medium with <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>25</m:mn></m:mrow></m:math> into a medium of <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>34</m:mn></m:mrow></m:math>, at an angle of 27<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> from the interface normal.
+<list id="id185426" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid85">What happens to the speed of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid86">What happens to the wavelength of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid87">Does the light bend towards the normal, away from the normal, or not at all?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYF">Click here for the solution.</link></item>
+          <item id="uid88">Light travels from a medium with <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>63</m:mn></m:mrow></m:math> into a medium of <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>42</m:mn></m:mrow></m:math>.
+<list id="id185518" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid89">What happens to the speed of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid90">What happens to the wavelength of the light? Does it increase, decrease, or remain the same?
+</item><item id="uid91">Does the light bend towards the normal, away from the normal, or not at all?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYL">Click here for the solution.</link></item>
+          <item id="uid92">Light is incident on a glass prism. The prism is surrounded by air. The angle of incidence is 23<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate the angle of reflection and the angle of refraction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYM">Click here for the solution.</link>
+</item>
+          <item id="uid93">Light is refracted at the interface between air and an unknown medium. If the angle of incidence is 53<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and the angle of refraction is 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, calculate the refractive index of the unknown, second medium.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYe">Click here for the solution.</link>
+</item>
+          <item id="uid94">A coin is placed in a bowl of acetone (<m:math overflow="scroll"><m:mi>n</m:mi></m:math> = 1,36). The coin appears to be 10 cm deep. What is the depth of the acetone?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYt">Click here for the solution.</link>
+</item>
+          <item id="uid95">
+A dot is drawn on a piece of paper and a glass prism placed on the dot according to the diagram.
+<figure id="id185664"><media id="id185664_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_025.png" id="id185664_onlineimage" width="151"><!-- NOTE: attribute width changes image size online (pixels). original width is 151. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_025.eps" id="id185664_printimage"/></media></figure>Use the information supplied to determine the refractive index of glass.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYu">Click here for the solution.</link></item>
+          <item id="uid98">Light is refracted at the interface between a medium of refractive index 1,5 and a second medium of refractive index 2,1. If the angle of incidence is 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, calculate the angle of refraction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYJ">Click here for the solution.</link>
+</item>
+          <item id="uid99">A ray of light strikes the interface between air and diamond. If the incident ray makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the interface, calculate the angle made by the refracted ray with the interface.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYS">Click here for the solution.</link>
+</item>
+          <item id="uid100"><emphasis effect="bold">Challenge Question</emphasis>: What values of <m:math overflow="scroll"><m:mi>n</m:mi></m:math> are physically impossible to achieve? Explain your answer. The values provide the limits of possible refractive indices.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYh">Click here for the solution.</link>
+</item>
+          <item id="uid101"><emphasis effect="bold">Challenge Question</emphasis>: You have been given a glass beaker full of an unknown liquid. How would you identify what the liquid is? You have the following pieces of equipment available for the experiment: a laser, a protractor, a ruler, a pencil, and a reference guide containing optical properties of various liquids.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgq">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Mirrors</title>
+      <para id="id185820">A mirror is a highly reflective surface. The most common mirrors are flat and are known as <emphasis effect="bold">plane mirrors</emphasis>. Household mirrors are plane mirrors. They are made of a flat piece of glass with a thin layer of silver nitrate or aluminium on the back. However, other mirrors are curved and are either <emphasis effect="bold">convex mirrors</emphasis> or are <emphasis effect="bold">concave mirrors</emphasis>. The reflecting properties of all three types of mirrors will be discussed in this section.</para>
+      <section id="uid102">
+        <title>Image Formation</title>
+<definition id="fhsst_id1627"><term id="termfhsst_id1627"> Image </term> <meaning id="meaningfhsst_id1627">
+        <para id="id185859">An image is a representation of an object formed by a mirror or lens. Light from the image is seen. </para>
+        </meaning></definition>
+        <figure id="uid103">
+          <media id="uid103_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_026.png" id="uid103_onlineimage" width="314"><!-- NOTE: attribute width changes image size online (pixels). original width is 314. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_026.eps" id="uid103_printimage"/>
+          </media>
+          <caption>An object formed in a mirror is real and upright.</caption>
+        </figure>
+        <para id="id185884">If you place a candle in front of a mirror, you now see two candles. The actual, physical candle is called the object and the picture you see in the mirror is called the image. The <emphasis effect="bold">object</emphasis> is the source of the incident rays. The <emphasis effect="bold">image</emphasis> is the picture that is formed by the reflected rays.</para>
+        <para id="id185901">The object could be an actual source that emits light, such as a light bulb or a candle. More commonly, the object reflects light from another source. When you look at your face in the mirror, your face does not emit light. Instead, light from a light bulb or from the sun reflects off your face and then hits the mirror. However, in working with light rays, it is easiest to pretend the light is coming from the object.</para>
+        <para id="id185908">An image formed by reflection may be real or virtual. A <emphasis effect="bold">real</emphasis> image occurs when light rays actually intersect at the image. A real image is inverted, or upside down. A <emphasis effect="bold">virtual</emphasis> image occurs when light rays do not actually meet at the image. Instead, you "see" the image because your eye projects light rays backward. You are fooled into seeing an image! A virtual image is erect, or right side up (upright).</para>
+        <para id="id185926">You can tell the two types apart by putting a screen at the location of the image. A real image can be formed on the screen because the light rays actually meet there. A virtual image cannot be seen on a screen, since it is not really there.</para>
+        <para id="id185932">To describe objects and images, we need to know their locations and their sizes. The distance from the mirror to the object is the <emphasis effect="bold">object distance</emphasis>, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math>.</para>
+        <para id="id185957">The distance from the mirror to the image is the <emphasis effect="bold">image distance</emphasis>, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math>.</para>
+      </section>
+      <section id="uid104">
+        <title>Plane Mirrors</title>
+<section id="secfhsst_id1646"><title> Investigation : Image formed by a mirror </title>
+        <list id="id185997" display="block" list-type="enumerated">
+          <item id="uid105">Stand one step away from a large mirror
+</item>
+          <item id="uid106">What do you observe in the mirror? This is called your image.
+</item>
+          <item id="uid107">What size is your image? Bigger, smaller or the same size as you?
+</item>
+          <item id="uid108">How far is your image from you? How far is your image from the mirror?
+</item>
+          <item id="uid109">Is your image upright or upside down?
+</item>
+          <item id="uid110">Take one step backwards. What does your image do? How far are you away from your image?
+</item>
+          <item id="uid111">If it were a real object, which foot would the image of you right show fit?
+</item>
+        </list>
+        <figure id="uid112">
+          <media id="uid112_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_027.png" id="uid112_onlineimage" width="194"><!-- NOTE: attribute width changes image size online (pixels). original width is 194. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_027.eps" id="uid112_printimage"/>
+          </media>
+          <caption>An image in a mirror is virtual, upright, the same size and inverted front to back.</caption>
+        </figure>
+        
+</section>
+        <para id="id186110">When you look into a mirror, you see an <emphasis effect="italics">image</emphasis> of yourself.</para>
+        <para id="id186120">The image created in the mirror has the following properties:</para>
+        <list id="id186124" display="block" list-type="enumerated">
+          <item id="uid113">The image is <emphasis effect="italics">virtual</emphasis>.
+</item>
+          <item id="uid114">The image is the same distance behind the mirror as the object is in front of the mirror.
+</item>
+          <item id="uid115">The image is inverted front to back.
+</item>
+          <item id="uid116">The image is the same size as the object.
+</item>
+          <item id="uid117">The image is upright.
+</item>
+        </list>
+        <para id="id186195">Virtual images are images formed in places where light does not really reach. Light does not really pass through the mirror to create the image; it only appears to an observer as though the light were coming from behind the mirror. Whenever a mirror creates an image which is virtual, the image will always be located behind the mirror where light does not really pass.</para>
+<definition id="fhsst_id1687"><term id="termfhsst_id1687"> Virtual Image </term> <meaning id="meaningfhsst_id1687">
+        <para id="id186208">A virtual image is upright, on the opposite side of the mirror as the object, and light does not actually reach it. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid118">
+        <title>Ray Diagrams</title>
+        <para id="id186230">We draw <emphasis effect="italics">ray diagrams</emphasis> to predict the image that is formed by a plane mirror. A ray diagram is a geometrical picture that is used for analyzing the images formed by mirrors and lenses. We draw a few characteristic rays from the object to the mirror. We then follow ray-tracing rules to find the path of the rays and locate the image.</para>
+<note id="notfhsst_id1694" type="tip">A mirror obeys the Law of Reflection.</note>
+        <para id="id186248">The ray diagram for the image formed by a plane mirror is the simplest possible ray diagram. <link target-id=""/> shows an object placed in front of a plane mirror. It is convenient to have a central line that runs perpendicular to the mirror. This imaginary line is called the <emphasis effect="bold">principal axis</emphasis>.</para>
+<note id="notfhsst_id1696" type="tip"><para id="uid980324"><emphasis effect="bold">Ray diagrams</emphasis></para>
+        <para id="id186273">The following should be remembered when drawing ray diagrams:</para>
+        <list id="id186279" display="block" list-type="enumerated">
+          <item id="uid119">Objects are represented by arrows. The length of the arrow represents the height of the object.
+</item>
+          <item id="uid120">If the arrow points upwards, then the object is described as upright or erect. If the arrow points downwards then the object is described as inverted.
+</item>
+          <item id="uid121">If the object is real, then the arrow is drawn with a solid line. If the object is virtual, then the arrow is drawn with a dashed line.
+</item>
+        </list>
+</note>
+        <para id="id186326">
+          <emphasis effect="bold">Method: Ray Diagrams for Plane Mirrors</emphasis>
+        </para>
+        <para id="id186333">Ray diagrams are used to find the position and size and whether the image is real or virtual.</para>
+        <list id="id186339" display="block" list-type="enumerated">
+          <item id="uid122">Draw the plane mirror as a straight line on a principal axis.
+<figure id="id186358"><media id="id186358_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_028.png" id="id186358_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_028.eps" id="id186358_printimage"/></media></figure></item>
+          <item id="uid123">Draw the object as an arrow in front of the mirror.
+<figure id="id186381"><media id="id186381_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_029.png" id="id186381_onlineimage" width="213"><!-- NOTE: attribute width changes image size online (pixels). original width is 213. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_029.eps" id="id186381_printimage"/></media></figure></item>
+          <item id="uid124">Draw the image of the object, by using the principle that the image is placed at the same distance behind the mirror that the object is in front of the mirror. The image size is also the same as the object size.
+<figure id="id186405"><media id="id186405_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_030.png" id="id186405_onlineimage" width="272"><!-- NOTE: attribute width changes image size online (pixels). original width is 272. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_030.eps" id="id186405_printimage"/></media></figure></item>
+          <item id="uid125">Place a dot at the point the eye is located.
+</item>
+          <item id="uid126">Pick one point on the image and draw the reflected ray that travels to the eye as it sees this point. Remember to add an arrowhead.
+<figure id="id186440"><media id="id186440_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_031.png" id="id186440_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_031.eps" id="id186440_printimage"/></media></figure></item>
+          <item id="uid127">Draw the incident ray for light traveling from the corresponding point on the object to the mirror, such that the law of reflection is obeyed.
+<figure id="id186463"><media id="id186463_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_032.png" id="id186463_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_032.eps" id="id186463_printimage"/></media></figure></item>
+          <item id="uid128">Continue for other extreme points on the object (i.e. the tip and base of the arrow).
+</item>
+        </list>
+        <para id="id186484">
+          <figure id="id186487">
+            <media id="id186487_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C6_033.png" id="id186487_onlineimage" width="226"><!-- NOTE: attribute width changes image size online (pixels). original width is 226. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_033.eps" id="id186487_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id186494">Suppose a light ray leaves the top of the object traveling parallel to the principal axis. The ray will hit the mirror at an angle of incidence of 0 degrees. We say that the ray hits the mirror <emphasis effect="italics">normally</emphasis>. According to the law of reflection, the ray will be reflected at 0 degrees. The ray then bounces back in the same direction. We also project the ray back behind the mirror because this is what your eye does.</para>
+        <para id="id186506">Another light ray leaves the top of the object and hits the mirror at its centre. This ray will be reflected at the same angle as its angle of incidence, as shown. If we project the ray backward behind the mirror, it will eventually cross the projection of the first ray we drew. We have found the location of the image! It is a virtual image since it appears in an area that light cannot actually reach (behind the mirror). You can see from the diagram that the image is erect and is the same size as the object. This is exactly as we expected.</para>
+        <para id="id186514">We use a dashed line to indicate that the image is virtual.</para><para id="eip-599"><figure id="mirrors-1" class="khanacademy">
+	  <title>Khan academy video on mirrors - 1</title>
+	  <media id="yt-media3" display="block" alt="video on mirrors 1">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/nrOg85VPQgw&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+      </section>
+      <section id="uid129">
+        <title>Spherical Mirrors</title>
+        <para id="id186528">The second class of mirrors that we will look at are spherical mirrors. These mirrors are called spherical mirrors because if you take a sphere and cut it as shown in <link target-id="uid130"/> and then polish the inside of one and the outside of the other, you will get a <emphasis effect="italics">concave mirror</emphasis> and <emphasis effect="italics">convex mirror</emphasis> as shown. These two mirrors will be studied in detail.</para>
+        <para id="id186551">The centre of curvature is the point at the centre of the sphere and describes how big the sphere is.</para>
+        <figure id="uid130">
+          <media id="uid130_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_034.png" id="uid130_onlineimage" width="526"><!-- NOTE: attribute width changes image size online (pixels). original width is 526. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_034.eps" id="uid130_printimage"/>
+          </media>
+          <caption>When a sphere is cut and then polished to a reflective surface on the inside a concave mirror is obtained. When the outside is polished to a reflective surface, a convex mirror is obtained.</caption>
+        </figure>
+      </section>
+      <section id="uid131">
+        <title>Concave Mirrors</title>
+        <para id="id186578">The first type of curved mirror we will study are concave mirrors. Concave mirrors have the shape shown in <link target-id="uid132"/>. As with a plane mirror, the principal axis is a line that is perpendicular to the centre of the mirror.</para>
+        <figure id="uid132">
+          <media id="uid132_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_035.png" id="uid132_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_035.eps" id="uid132_printimage"/>
+          </media>
+          <caption>Concave mirror with principal axis.</caption>
+        </figure>
+        <para id="id186601">If you think of light reflecting off a concave mirror, you will immediately see that things will look very different compared to a plane mirror. The easiest way to understand what will happen is to draw a ray diagram and work out where the images will form. Once we have done that it is easy to see what properties the image has.</para>
+        <para id="id186607">First we need to define a very important characteristic of the mirror. We have seen that the centre of curvature is the centre of the sphere from which the mirror is cut. We then define that a distance that is half-way between the centre of curvature and the mirror on the principal axis. This point is known as the <emphasis effect="italics">focal point</emphasis> and the distance from the focal point to the mirror is known as the <emphasis effect="italics">focal length</emphasis> (symbol <m:math overflow="scroll"><m:mi>f</m:mi></m:math>). Since the focal point is the midpoint of the line segment joining the vertex and the center of curvature, the focal length would be one-half the radius of curvature. This fact can come in very handy, remember if you know one then you know the other!</para>
+<definition id="fhsst_id1763"><term id="termfhsst_id1763"> Focal Point </term> <meaning id="meaningfhsst_id1763">
+        <para id="id186643">The focal point of a mirror is the midpoint of a line segment joining the vertex and the centre of curvature. It is the position at which all parallel rays are focussed. </para>
+        </meaning></definition>
+        <para id="id186656">Why are we making such a big deal about this point we call the focal point? It has an important property we will use often. A ray parallel to the principal axis hitting the mirror will always be reflected through the focal point. The focal point is the position at which all parallel rays are <emphasis effect="italics">focussed</emphasis>.</para>
+        <figure id="uid133">
+          <media id="uid133_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_036.png" id="uid133_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_036.eps" id="uid133_printimage"/>
+          </media>
+          <caption>All light rays pass through the focal point.</caption>
+        </figure>
+        <figure id="uid134">
+          <media id="uid134_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_037.png" id="uid134_onlineimage" width="552"><!-- NOTE: attribute width changes image size online (pixels). original width is 552. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_037.eps" id="uid134_printimage"/>
+          </media>
+          <caption>A concave mirror with three rays drawn to locate the image. Each incident ray is reflected according to the Law of Reflection. The intersection of the reflected rays gives the location of the image. Here the image is real and inverted.</caption>
+        </figure>
+        <para id="id186693">From <link target-id="uid134"/>, we see that the image created by a concave mirror is real and inverted, as compared to the virtual and erect image created by a plane mirror.</para>
+<definition id="fhsst_id1782"><term id="termfhsst_id1782"> Real Image </term> <meaning id="meaningfhsst_id1782">
+        <para id="id186708">A real image can be cast on a screen; it is inverted, and on the same side of the mirror as the object. </para>
+        </meaning></definition>
+<section id="secfhsst_id1785"><title> Convergence </title>
+        <para id="id186727">A concave mirror is also known as a converging mirror. Light rays appear to converge to the focal point of a concave mirror. </para>
+</section>
+      </section>
+      <section id="uid135">
+        <title>Convex Mirrors</title>
+        <para id="id186750">The second type of curved mirror we will study are convex mirrors. Convex mirrors have the shape shown in <link target-id="uid136"/>. As with a plane mirror, the principal axis is a line that is perpendicular to the centre of the mirror.</para>
+        <para id="id186760">We have defined the focal point as that point that is half-way along the principal axis between the centre of curvature and the mirror. Now for a convex mirror, this point is <emphasis effect="italics">behind</emphasis> the mirror. A convex mirror has a <emphasis effect="italics">negative</emphasis> focal length because the focal point is behind the mirror.</para>
+        <figure id="uid136">
+          <media id="uid136_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_038.png" id="uid136_onlineimage" width="163"><!-- NOTE: attribute width changes image size online (pixels). original width is 163. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_038.eps" id="uid136_printimage"/>
+          </media>
+          <caption>Convex mirror with principle axis, focal point (F) and centre of curvature (C). The centre of the mirror is the optical centre (O).</caption>
+        </figure>
+        <para id="id186790">To determine what the image from a convex mirror looks like and where the image is located, we need to remember that a mirror obeys the laws of reflection and that light appears to come from the image. The image created by a convex mirror is shown in <link target-id="uid137"/>.</para>
+        <figure id="uid137">
+          <media id="uid137_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_039.png" id="uid137_onlineimage" width="474"><!-- NOTE: attribute width changes image size online (pixels). original width is 474. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_039.eps" id="uid137_printimage"/>
+          </media>
+          <caption>A convex mirror with three rays drawn to locate the image. Each incident ray is reflected according to the Law of Reflection. The reflected rays diverge. If the reflected rays are extended behind the mirror, then their intersection gives the location of the image behind the mirror. For a convex mirror, the image is virtual and upright.</caption>
+        </figure>
+        <para id="id186817">From <link target-id="uid137"/>, we see that the image created by a convex mirror is virtual and upright, as compared to the real and inverted image created by a concave mirror.</para>
+<section id="secfhsst_id1809"><title> Divergence </title>
+        <para id="id186832">A convex mirror is also known as a diverging mirror. Light rays appear to diverge from the focal point of a convex mirror. </para>
+</section>
+      </section>
+      <section id="uid138">
+        <title>Summary of Properties of Mirrors</title>
+        <para id="id186855">The properties of mirrors are summarised in <link target-id="uid139"/>.</para>
+        <table id="uid139" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Plane</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Concave</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Convex</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>–</entry>
+                <entry>converging</entry>
+                <entry>diverging</entry>
+              </row>
+              <row>
+                <entry>virtual image</entry>
+                <entry>real image</entry>
+                <entry>virtual image</entry>
+              </row>
+              <row>
+                <entry>upright</entry>
+                <entry>inverted</entry>
+                <entry>upright</entry>
+              </row>
+              <row>
+                <entry>image behind mirror</entry>
+                <entry>image in front of mirror</entry>
+                <entry>image behind mirror</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Summary of properties of concave and convex mirrors.</caption>
+        </table>
+      </section>
+      <section id="uid140">
+        <title>Magnification</title>
+        <para id="id187046">In <link target-id="uid134"/> and <link target-id="uid137"/>, the height of the object and image arrows were different. In any optical system where images are formed from objects, the ratio of the image height, <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub></m:math>, to the object height, <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math> is known as the magnification, <m:math overflow="scroll"><m:mi>m</m:mi></m:math>.</para>
+        <equation id="uid141">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>m</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>h</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi>h</m:mi>
+                  <m:mi>o</m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id187133">This is true for the mirror examples we showed above and will also be true for lenses, which will be introduced in the next sections. For a plane mirror, the height of the image is the same as the height of the object, so the magnification is simply <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>. If the magnification is greater than 1, the image is larger than the object and is said to be <emphasis effect="italics">magnified</emphasis>. If the magnification is less than 1, the image is smaller than the object so the image is said to be <emphasis effect="italics">diminished</emphasis>.</para>
+<exercise id="secfhsst_id1877"><title> Magnification </title>
+        <problem id="probfhsst_id1878">
+        <para id="id187199">A concave mirror forms an image that is 4,8 cm high. The height of the object is 1,6 cm. Calculate the magnification of the mirror. </para>
+        </problem>
+        <solution id="solfhsst_id1881"> <list id="listfhsst_id1881" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what is given and what is asked. </label>
+        <para id="id187224">Image height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>i</m:mi></m:msub></m:math> = 4,8 cm</para>
+        <para id="id187242">Object height <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mi>o</m:mi></m:msub></m:math> = 1,6 cm</para>
+        <para id="id187262">Magnification <m:math overflow="scroll"><m:mi>m</m:mi></m:math> = ?</para>
+        </item> <item> <label> Substitute the values and calculate m. </label>
+        <equation id="id187280">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>m</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>o</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>3</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id187358">The magnification is 3 times.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1946"><title> Mirrors </title>
+        <list id="id187383" display="block" list-type="enumerated"><item id="uid142">List 5 properties of a virtual image created by reflection from a plane mirror.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lyO">Click here for the solution.</link>
+</item>
+          <item id="uid143">What angle does the principal axis make with a plane mirror?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYc">Click here for the solution.</link>
+</item>
+          <item id="uid144">Is the principal axis a normal to the surface of the plane mirror?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYx">Click here for the solution.</link>
+</item>
+          <item id="uid145">Do the reflected rays that contribute to forming the image from a plane mirror obey the law of reflection?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYa">Click here for the solution.</link>
+</item>
+          <item id="uid146">If a candle is placed 50 cm in front of a plane mirror, how far behind the plane mirror will the image be? Draw a ray diagram to show how the image is formed.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYC">Click here for the solution.</link>
+</item>
+          <item id="uid147">If a stool 0,5 m high is placed 2 m in front of a plane mirror, how far behind the plane mirror will the image be and how high will the image be?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY1">Click here for the solution.</link>
+</item>
+          <item id="uid148">If Susan stands 3 m in front of a plane mirror, how far from Susan will her image be located?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYr">Click here for the solution.</link>
+</item>
+          <item id="uid149">Explain why ambulances have the word `ambulance' reversed on the front bonnet of the car?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYY">Click here for the solution.</link>
+</item>
+          <item id="uid150">Complete the diagram by filling in the missing lines to locate the image.
+<figure id="id187509"><media id="id187509_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_040.png" id="id187509_onlineimage" width="414"><!-- NOTE: attribute width changes image size online (pixels). original width is 414. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_040.eps" id="id187509_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lYg">Click here for the solution.</link></item>
+          <item id="uid151">An object 2 cm high is placed 4 cm in front of a plane mirror. Draw a ray diagram, showing the object, the mirror and the position of the image.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY4">Click here for the solution.</link>
+</item>
+          <item id="uid152">The image of an object is located 5 cm behind a plane mirror. Draw a ray diagram, showing the image, the mirror and the position of the object.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY2">Click here for the solution.</link>
+</item>
+          <item id="uid153">How high must a mirror be so that you can see your whole body in it? Does it make a difference if you change the distance you stand in front of the mirror? Explain.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYT">Click here for the solution.</link>
+</item>
+          <item id="uid154">If 1-year old Tommy crawls towards a mirror at a rate of 0,3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, at what speed will Tommy and his image approach each other?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYb">Click here for the solution.</link>
+</item>
+          <item id="uid155">Use a diagram to explain how light converges to the focal point of a concave mirror.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYj">Click here for the solution.</link>
+</item>
+          <item id="uid156">Use a diagram to explain how light diverges away from the focal point of a convex mirror.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYD">Click here for the solution.</link>
+</item>
+          <item id="uid157">An object 1 cm high is placed 4 cm from a concave mirror. If the focal length of the mirror is 2 cm, find the position and size of the image by means of a ray diagram. Is the image real or virtual? What is the magnification? <newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYW">Click here for the solution.</link>
+</item>
+          <item id="uid158">An object 2 cm high is placed 4 cm from a convex mirror. If the focal length of the mirror is 4 cm, find the position and size of the image by means of a ray diagram. Is the image real or virtual? What is the magnification?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYZ">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid7">
+      <title>Total Internal Reflection and Fibre Optics</title>
+      <section id="uid160">
+        <title>Total Internal Reflection</title>
+<section id="secfhsst_id1993"><title> Investigation : Total Internal Reflection </title>
+        <para id="id187702">Work in groups of four. Each group will need a raybox (or torch) with slit, triangular glass prism and protractor. If you do not have a raybox, use a torch and stick two pieces of tape over the lens so that only a thin beam of light is visible.</para>
+        <para id="id187709">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id187718">To investigate total internal reflection.</para>
+        <para id="id187724">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id187733" display="block" list-type="enumerated">
+          <item id="uid161">Place the raybox next to the glass block so that the light shines right through without any refraction. See "Position 1" in diagram.
+<figure id="id187753"><media id="id187753_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_041.png" id="id187753_onlineimage" width="321"><!-- NOTE: attribute width changes image size online (pixels). original width is 321. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_041.eps" id="id187753_printimage"/></media></figure></item>
+          <item id="uid162">Move the raybox such that the light is refracted by the glass. See "Position 2".
+<figure id="id187776"><media id="id187776_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_042.png" id="id187776_onlineimage" width="252"><!-- NOTE: attribute width changes image size online (pixels). original width is 252. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_042.eps" id="id187776_printimage"/></media></figure></item>
+          <item id="uid163">Move the raybox further and observe what happens.
+
+<figure id="id187800"><media id="id187800_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_043.png" id="id187800_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_043.eps" id="id187800_printimage"/></media></figure></item>
+          <item id="uid164">Move the raybox until the refracted ray seems to disappear. See "Position 4". The angle of the incident light is called the critical angle.
+
+<figure id="id187826"><media id="id187826_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_044.png" id="id187826_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_044.eps" id="id187826_printimage"/></media></figure></item>
+          <item id="uid165">Move the raybox further and observe what happens. See "Position 5". The light shines back into the glass block. This is called total internal reflection.
+<figure id="id187849"><media id="id187849_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_045.png" id="id187849_onlineimage" width="299"><!-- NOTE: attribute width changes image size online (pixels). original width is 299. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_045.eps" id="id187849_printimage"/></media></figure></item>
+        </list>
+        
+</section>
+        <para id="id187866">When we increase the angle of incidence, we reach a point where the angle of refraction is 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and the refracted ray runs along the surface of the medium. This angle of incidence is called the critical angle.</para>
+<definition id="fhsst_id2019"><term id="termfhsst_id2019"> Critical Angle </term> <meaning id="meaningfhsst_id2019">
+        <para id="id187891">The critical angle is the angle of incidence where the angle of reflection is 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The light must shine from a dense to a less dense medium. </para>
+        </meaning></definition>
+        <para id="id187917">If the angle of incidence is bigger than this critical angle, the refracted ray will not emerge from the medium, but will be reflected back into the medium. This is called total internal reflection.</para>
+        <para id="id187922">Total internal reflection takes place when</para>
+        <list id="id187926" display="block" list-type="bulleted">
+          <item id="uid166">light shines from an optically denser medium to an optically less dense medium.
+</item>
+          <item id="uid167">the angle of incidence is greater than the critical angle.
+</item>
+        </list>
+<definition id="fhsst_id2030"><term id="termfhsst_id2030"> Total Internal Reflection </term> <meaning id="meaningfhsst_id2030">
+        <para id="id187961">Total internal reflection takes place when light is reflected back into the medium because the angle of incidence is greater than the critical angle. </para>
+        </meaning></definition>
+        <figure id="uid168">
+          <media id="uid168_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_046.png" id="uid168_onlineimage" width="281"><!-- NOTE: attribute width changes image size online (pixels). original width is 281. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_046.eps" id="uid168_printimage"/>
+          </media>
+          <caption>Diagrams to show the critical angle and total internal reflection.</caption>
+        </figure>
+        <para id="id187986">Each medium has its own unique critical angle. For example, the critical angle for glass is 42<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, and that of water is 48,8<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. We can calculate the critical angle for any medium.</para>
+        <section id="uid169">
+          <title>Calculating the Critical Angle</title>
+          <para id="id188027">Now we shall learn how to derive the value of the critical angle for two given media. The process is fairly simple and involves just the use of Snell's Law that we have already studied. To recap, Snell's Law states:</para>
+          <equation id="id188032">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188083">where <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub></m:math> is the refractive index of material 1, <m:math overflow="scroll"><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub></m:math> is the refractive index of material 2, <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub></m:math> is the angle of incidence and <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:math> is the angle of refraction. For total internal reflection we know that the angle of incidence is the critical angle. So,</para>
+          <equation id="id188148">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188177">However, we also know that the angle of refraction at the critical angle is 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. So we have:</para>
+          <equation id="id188197">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msup>
+                  <m:mn>90</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188226">We can then write Snell's Law as:</para>
+          <equation id="id188232">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo form="prefix">sin</m:mo>
+                <m:msup>
+                  <m:mn>90</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id188283">Solving for <m:math overflow="scroll"><m:msub><m:mi>θ</m:mi><m:mi>c</m:mi></m:msub></m:math> gives:</para>
+          <equation id="id188304">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>n</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>n</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<note id="notfhsst_id2239" type="tip">Take care that for total internal reflection the incident ray is always in the denser medium.</note>
+<para id="eip-635"><figure id="circuits-2" class="khanacademy">
+	  <title>Khan academy video on refraction - 1</title>
+	  <media id="yt-media2" display="block" alt="video on refraction 1">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/WRuatAcd2WY&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id2240"><title> Critical Angle 1 </title>
+          <problem id="probfhsst_id2241">
+          <para id="id188495">Given that the refractive indices of air and water are 1 and 1,33, respectively, find the critical angle. </para>
+          </problem>
+          <solution id="solfhsst_id2244"> <list id="listfhsst_id2244" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine how to approach the problem </label>
+          <para id="id188520">We know that the critical angle is given by:</para>
+          <equation id="id188524">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msup>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>n</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:math>
+          </equation>
+          </item> <item> <label> Solve the problem </label>
+          <equation id="id188583">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>θ</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo>,</m:mo>
+                            <m:mn>33</m:mn>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>48</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>8</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Write the final answer </label>
+          <para id="id188715">The critical angle for light travelling from water to air is <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.
+ </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2372"><title> Critical Angle 2 </title>
+          <problem id="probfhsst_id2373">
+          <para id="id188763">Complete the following ray diagrams to show the path of light in each situation.</para>
+          <para id="id188769">
+            <figure id="id188770">
+              <media id="id188770_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_047.png" id="id188770_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_047.eps" id="id188770_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188777">
+            <figure id="id188778">
+              <media id="id188778_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_048.png" id="id188778_onlineimage" width="138"><!-- NOTE: attribute width changes image size online (pixels). original width is 138. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_048.eps" id="id188778_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188785">
+            <figure id="id188786">
+              <media id="id188786_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_049.png" id="id188786_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_049.eps" id="id188786_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188792"><figure id="id188794"><media id="id188794_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_050.png" id="id188794_onlineimage" width="138"><!-- NOTE: attribute width changes image size online (pixels). original width is 138. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_050.eps" id="id188794_printimage"/></media></figure>
+ </para>
+          </problem>
+          <solution id="solfhsst_id2402"> <list id="listfhsst_id2402" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify what is given and what is asked </label>
+          <para id="id188820">The critical angle for water is <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.</para>
+          <para id="id188843">We are asked to complete the diagrams.</para>
+          <para id="id188849">For incident angles smaller than <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> refraction will occur.</para>
+          <para id="id188875">For incident angles greater than <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> total internal reflection will occur.</para>
+          <para id="id188901">For incident angles equal to <m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> refraction will occur at <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          <para id="id188940">The light must travel from a high optical density to a lower one.</para>
+          </item> <item> <label> Complete the diagrams </label>
+          <para id="id188950">
+            <figure id="id188951">
+              <media id="id188951_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_051.png" id="id188951_onlineimage" width="235"><!-- NOTE: attribute width changes image size online (pixels). original width is 235. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_051.eps" id="id188951_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188957">Refraction occurs (ray is bent away from the normal)</para>
+          <para id="id188961">
+            <figure id="id188962">
+              <media id="id188962_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_052.png" id="id188962_onlineimage" width="230"><!-- NOTE: attribute width changes image size online (pixels). original width is 230. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_052.eps" id="id188962_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188969">Total internal reflection occurs</para>
+          <para id="id188972">
+            <figure id="id188974">
+              <media id="id188974_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_053.png" id="id188974_onlineimage" width="230"><!-- NOTE: attribute width changes image size online (pixels). original width is 230. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_053.eps" id="id188974_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id188980">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>θ</m:mi>
+                  <m:mi>c</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:mn>48</m:mn>
+                <m:mo>,</m:mo>
+                <m:msup>
+                  <m:mn>8</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </para>
+          <para id="id189011">
+            <figure id="id189012">
+              <media id="id189012_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C6_054.png" id="id189012_onlineimage" width="237"><!-- NOTE: attribute width changes image size online (pixels). original width is 237. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_054.eps" id="id189012_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id189018">Refraction towards the normal (air is less dense than water)
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+      </section>
+      <section id="uid170">
+        <title>Fibre Optics</title>
+        <para id="id189044">Total internal reflection is a powerful tool since it can be used to confine light. One of the most common applications of total internal reflection is in <emphasis effect="italics">fibre optics</emphasis>. An optical fibre is a thin, transparent fibre, usually made of glass or plastic, for transmitting light. Optical fibres are
+usually thinner than a human hair! The construction of a single optical fibre is shown in <link target-id="uid171"/>.</para>
+        <para id="id189062">The basic functional structure of an optical fibre consists of an outer protective <emphasis effect="italics">cladding</emphasis> and an <emphasis effect="italics">inner core</emphasis> through which light pulses travel. The overall diameter of the fibre is about 125 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>m (<m:math overflow="scroll"><m:mrow><m:mn>125</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>) and that of the core is just about 50 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>m (<m:math overflow="scroll"><m:mrow><m:mn>10</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>). The mode of operation of the optical fibres, as mentioned above, depends on the phenomenon of total internal reflection. The difference in refractive index of the cladding and the core allows total internal reflection in the same way as happens at an air-water surface. If light is incident on a cable end with an angle of incidence greater than the critical angle then the light will remain trapped inside the glass strand. In this way, light travels very quickly down the length of the cable.</para>
+        <figure id="uid171">
+          <media id="uid171_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C6_055.png" id="uid171_onlineimage" width="228"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_055.eps" id="uid171_printimage"/>
+          </media>
+          <caption>Structure of a single optical fibre.</caption>
+        </figure>
+        <section id="uid172">
+          <title>Fibre Optics in Telecommunications</title>
+          <para id="id189188">Optical fibres are most common in telecommunications, because information can be transported over long distances, with minimal loss of data. The minimised loss of data gives optical fibres an advantage over conventional cables.</para>
+          <para id="id189194">Data is transmitted from one end of the fibre to another in the form of laser pulses. A single strand is capable of handling over 3000 simultaneous transmissions which is a huge improvement over the conventional co-axial cables. Multiple signal transmission is achieved by sending individual light pulses at slightly different angles. For example if one of the pulses makes a 72,23<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> angle of incidence then a separate pulse can be sent at an angle of 72,26<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>! The transmitted data is received almost instantaneously at the other end of the cable since the information coded onto the laser travels at the speed of light! During transmission over long distances <emphasis effect="italics">repeater stations</emphasis> are used to amplify the signal which has weakened somewhat by the time it reaches the station. The amplified signals are then relayed towards their destination and may encounter several other repeater stations on the way.</para>
+        </section>
+        <section id="uid173">
+          <title>Fibre Optics in Medicine</title>
+          <para id="id189247">Optic fibres are used in medicine in <emphasis effect="italics">endoscopes</emphasis>.</para>
+<note id="notfhsst_id2488"><title> Interesting Fact </title>
+          <para id="id189262">Endoscopy means <emphasis effect="italics">to look inside</emphasis> and refers to looking inside the human body for diagnosing medical conditions.</para>
+</note>
+          <para id="id189280">The main part of an endoscope is the optical fibre. Light is shone down the optical fibre and a medical doctor can use the endoscope to look inside a patient. Endoscopes are used to examine the inside of a patient's stomach, by inserting the endoscope down the patient's throat.</para>
+          <para id="id189285">Endoscopes allow minimally invasive surgery. This means that a person can be diagnosed and treated through a small incision. This has advantages over open surgery because endoscopy is quicker and cheaper and the patient recovers more quickly. The alternative is open surgery which is expensive, requires more time and is more traumatic for the patient.</para>
+<section id="secfhsst_id2493"><title> Total Internal Reflection and Fibre Optics </title>
+          <list id="id189299" display="block" list-type="enumerated"><item id="uid174">Describe total internal reflection, referring to the conditions that must be satisfied for total internal reflection to occur.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYB">Click here for the solution.</link>
+</item>
+            <item id="uid175">Define what is meant by the <emphasis effect="italics">critical angle</emphasis> when referring to total internal reflection. Include a ray diagram to explain the concept.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYk">Click here for the solution.</link>
+</item>
+            <item id="uid176">Will light travelling from diamond to silicon ever undergo total internal reflection?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYk">Click here for the solution.</link>
+</item>
+            <item id="uid177">Will light travelling from sapphire to diamond undergo total internal reflection?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY0">Click here for the solution.</link>
+</item>
+            <item id="uid178">What is the critical angle for light traveling from air to acetone?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY8">Click here for the solution.</link>
+</item>
+            <item id="uid179">Light traveling from diamond to water strikes the interface with an angle of incidence of 86<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate the critical angle to determine whether the light be totally internally reflected and so be trapped within the water.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY9">Click here for the solution.</link>
+</item>
+            <item id="uid180">Which of the following interfaces will have the largest critical angle?
+<list id="id189412" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid181">a glass to water interface
+</item><item id="uid182">a diamond to water interface
+</item><item id="uid183">a diamond to glass interface
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYX">Click here for the solution.</link></item>
+            <item id="uid184">If the fibre optic strand is made from glass, determine the critical angle of the light ray so that the ray stays within the fibre optic strand.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYI">Click here for the solution.</link>
+</item>
+            <item id="uid185">A glass slab is inserted in a tank of water. If the refractive index of water is 1,33 and that of glass is 1,5, find the critical angle.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lY5">Click here for the solution.</link>
+</item>
+            <item id="uid186">A diamond ring is placed in a container full of glycerin. If the critical angle is found to be 37,4<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and the refractive index of glycerin is given to be 1,47, find the refractive index of diamond.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYN">Click here for the solution.</link>
+</item>
+            <item id="uid187">An optical fibre is made up of a core of refractive index 1,9, while the refractive index of the cladding is 1,5. Calculate the maximum angle which a light pulse can make with the wall of the core. NOTE: The question does not ask for the angle of incidence but for the angle made by the ray with the wall of the core, which will be equal to 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>- angle of incidence.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYR">Click here for the solution.</link>
+</item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+    <para id="eip-619"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lightg10-100511072123-phpapp01&amp;stripped_title=light-g10&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid8">
+      <title>Summary</title>
+      <list id="id189554" display="block" list-type="enumerated">
+        <item id="uid188">We can see objects when light from the objects enters our eyes.
+</item>
+        <item id="uid189">Light rays are thin imaginary lines of light and are indicated in drawings by means of arrows.
+</item>
+        <item id="uid190">Light travels in straight lines. Light can therefore not travel around corners. Shadows are formed because light shines in straight lines.
+</item>
+        <item id="uid191">Light rays reflect off surfaces. The incident ray shines in on the surface and the reflected ray is the one that bounces off the surface. The surface normal is the perpendicular line to the surface where the light strikes the surface.
+</item>
+        <item id="uid192">The angle of incidence is the angle between the incident ray and the surface, and the angle of reflection is the angle between the reflected ray and the surface.
+</item>
+        <item id="uid193">The Law of Reflection states the angle of incidence is equal to the angle of reflection and that the reflected ray lies in the plane of incidence.
+</item>
+        <item id="uid194">Specular reflection takes place when parallel rays fall on a surface and they leave the object as parallel rays. Diffuse reflection takes place when parallel rays are reflected in different directions.
+</item>
+        <item id="uid195">Refraction is the bending of light when it travels from one medium to another. Light travels at different speeds in different media.
+</item>
+        <item id="uid196">The refractive index of a medium is a measure of how easily light travels through the medium. It is a ratio of the speed of light in a vacuum to the speed of light in the medium.
+<m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>v</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid197">Snell's Law gives the relationship between the refractive indices, angles of incidence and reflection of two media.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub><m:mo form="prefix">sin</m:mo><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>n</m:mi><m:mn>2</m:mn></m:msub><m:mo form="prefix">sin</m:mo><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+        <item id="uid198">Light travelling from one medium to another of lighter optical density will be refracted towards the normal.
+Light travelling from one medium to another of lower optical density will be refracted away from the normal.
+</item>
+        <item id="uid199">Objects in a medium (e.g. under water) appear closer to the surface than they really are. This is due to the refraction of light, and the refractive index of the medium.
+<m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi> real </m:mi><m:mi> depth </m:mi></m:mrow><m:mrow><m:mi> apparent </m:mi><m:mi> depth </m:mi></m:mrow></m:mfrac></m:mrow></m:math></item>
+        <item id="uid200">Mirrors are highly reflective surfaces. Flat mirrors are called plane mirrors. Curved mirrors can be convex or concave. The properties of the images formed by mirrors are summarised in Table 3.2.
+</item>
+        <item id="uid201">A real image can be cast on a screen, is inverted and in front of the mirror.
+A virtual image cannot be cast on a screen, is upright and behind the mirror.
+</item>
+        <item id="uid202">The magnification of a mirror is how many times the image is bigger or smaller than the object.
+<m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mi> image </m:mi><m:mi> height </m:mi></m:mrow><m:mo>(</m:mo><m:msub><m:mi mathvariant="normal">h</m:mi><m:mi mathvariant="normal">i</m:mi></m:msub><m:mo>)</m:mo></m:mrow><m:mrow><m:mrow><m:mi> object </m:mi><m:mi> height </m:mi></m:mrow><m:mo>(</m:mo><m:msub><m:mi mathvariant="normal">h</m:mi><m:mn>0</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></item>
+        <item id="uid203">The critical angle of a medium is the angle of incidence when the angle of refraction is <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> and the refracted ray runs along the interface between the two media.
+</item>
+        <item id="uid204">Total internal reflection takes place when light travels from one medium to another of lower optical density. If the angle of incidence is greater than the critical angle for the medium, the light will be reflected back into the medium. No refraction takes place.
+</item>
+        <item id="uid205">Total internal reflection is used in optical fibres in telecommunication and in medicine in endoscopes. Optical fibres transmit information much more quickly and accurately than traditional methods.
+</item>
+      </list>
+    </section>
+    <section id="cid9">
+      <title>Exercises</title>
+      <list id="id189998" display="block" list-type="enumerated"><item id="uid206">Give one word for each of the following descriptions:
+<list id="id190014" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid207">The image that is formed by a plane mirror.
+</item><item id="uid208">The perpendicular line that is drawn at right angles to a reflecting surface at the point of incidence.
+</item><item id="uid209">The bending of light as it travels from one medium to another.
+</item><item id="uid210">The ray of light that falls in on an object.
+</item><item id="uid211">A type of mirror that focuses all rays behind the mirror.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYn">Click here for the solution.</link></item>
+        <item id="uid212">State whether the following statements are TRUE or FALSE. If they are false, rewrite the statement correcting it.
+<list id="id190094" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid213">The refractive index of a medium is an indication of how fast light will travel through the medium.
+</item><item id="uid214">Total internal refraction takes place when the incident angle is larger than the critical angle.
+</item><item id="uid215">The magnification of an object can be calculated if the speed of light in a vacuum and the speed of light in the medium is known.
+</item><item id="uid216">The speed of light in a vacuum is about <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item><item id="uid217">Specular reflection takes place when light is reflected off a rough surface.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lYQ">Click here for the solution.</link></item>
+        <item id="uid218">Choose words from Column B to match the concept/description in Column A. All the appropriate words should be identified. Words can be used more than once.
+<table id="id190211" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="underline">Column A</emphasis></entry><entry><emphasis effect="underline">Column B</emphasis></entry></row><row><entry>(a)</entry><entry>Real image</entry><entry>Upright</entry></row><row><entry>(b)</entry><entry>Virtual image</entry><entry>Can be cast on a screen</entry></row><row><entry>(c)</entry><entry>Concave mirror</entry><entry>In front</entry></row><row><entry>(d)</entry><entry>Convex mirror</entry><entry>Behind</entry></row><row><entry>(e)</entry><entry>Plane mirror</entry><entry>Inverted</entry></row><row><entry/><entry/><entry>Light travels to it</entry></row><row><entry/><entry/><entry>Upside down</entry></row><row><entry/><entry/><entry>Light does not reach it</entry></row><row><entry/><entry/><entry>Erect</entry></row><row><entry/><entry/><entry>Same size</entry></row></tbody></tgroup></table><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYU">Click here for the solution.</link></item>
+        <item id="uid219">Complete the following ray diagrams to show the path of light.
+<figure id="id190421"><media id="id190421_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_056.png" id="id190421_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_056.eps" id="id190421_printimage"/></media></figure><figure id="id190427"><media id="id190427_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_057.png" id="id190427_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_057.eps" id="id190427_printimage"/></media></figure><figure id="id190434"><media id="id190434_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_058.png" id="id190434_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_058.eps" id="id190434_printimage"/></media></figure><figure id="id190441"><media id="id190441_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_059.png" id="id190441_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_059.eps" id="id190441_printimage"/></media></figure><figure id="id190447"><media id="id190447_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_060.png" id="id190447_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_060.eps" id="id190447_printimage"/></media></figure><figure id="id190454"><media id="id190454_media" alt=""><image mime-type="image/png" src="../../media/PG10C6_061.png" id="id190454_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C6_061.eps" id="id190454_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lYP">Click here for the solution.</link></item>
+        <item id="uid220">A ray of light strikes a surface at 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the surface normal. Draw a ray diagram showing the incident ray, reflected ray and surface normal. Calculate the angles of incidence and reflection and fill them in on your diagram.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYE">Click here for the solution.</link>
+</item>
+        <item id="uid221">Light travels from glass (n = 1,5) to acetone (n = 1,36). The angle of incidence is 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+<list id="id190514" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid222">Describe the path of light as it moves into the acetone.
+</item><item id="uid223">Calculate the angle of refraction.
+</item><item id="uid224">What happens to the speed of the light as it moves from the glass to the acetone?
+</item><item id="uid225">What happens to the wavelength of the light as it moves into the acetone?
+</item><item id="uid226">What is the name of the phenomenon that occurs at the interface between the two media?
+</item></list><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYm">Click here for the solution.</link></item>
+        <item id="uid227">A stone lies at the bottom of a swimming pool. The water is 120 cm deep. The refractive index of water is 1,33. How deep does the stone appear to be?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYy">Click here for the solution.</link>
+</item>
+        <item id="uid228">Light strikes the interface between air and an unknown medium with an incident angle of 32<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The angle of refraction is measured to be 48<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate the refractive index of the medium and identify the medium.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYV">Click here for the solution.</link>
+</item>
+        <item id="uid229">Explain what total internal reflection is and how it is used in medicine and telecommunications. Why is this technology much better to use?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYp">Click here for the solution.</link>
+</item>
+        <item id="uid230">A candle 10 cm high is placed 25 cm in front of a plane mirror. Draw a ray diagram to show how the image is formed. Include all labels and write down the properties of the image.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYd">Click here for the solution.</link>
+</item>
+        <item id="uid231">A virtual image, 4 cm high, is formed 3 cm from a plane mirror. Draw a labelled ray diagram to show the position and height of the object. What is the magnification?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYv">Click here for the solution.</link>
+</item>
+        <item id="uid232">An object, 3 cm high, is placed 4 cm from a concave mirror of focal length 2 cm. Draw a labelled ray diagram to find the position, height and properties of the image.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lYw">Click here for the solution.</link>
+</item>
+      </list>
+    </section>
+  </content>
+</document>

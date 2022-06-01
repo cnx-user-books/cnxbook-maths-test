@@ -1,0 +1,1696 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>2D and 3D Wavefronts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33655</md:content-id>
+  <md:title>2D and 3D Wavefronts</md:title>
+  <md:abstract/>
+  <md:uuid>5dec9f2b-e579-4b8d-97f0-8067423250b3</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id62184">You have learnt about the basic principles of reflection and refraction. In this chapter, you will learn about phenomena that arise with waves in two and three dimensions: interference and diffraction.</para>
+    </section>
+    <section id="cid3">
+      <title>Wavefronts</title>
+<section id="secfhsst_id73"><title> Investigation : Wavefronts </title>
+      <para id="id62544">The diagram shows three identical waves being emitted by three point sources. All points marked with the same letter are in phase. Join all points with the same letter.</para>
+      <para id="id62551">
+        <figure id="id62554">
+          <media id="id62554_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_001.png" id="id62554_onlineimage" width="403"><!-- NOTE: attribute width changes image size online (pixels). original width is 403. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_001.eps" id="id62554_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62560">What type of lines (straight, curved, etc) do you get? How does this compare to the line that joins the sources? </para>
+</section>
+      <para id="id62569">Consider three point sources of waves. If each source emits waves isotropically (i.e. the same in all directions) we will get the situation shown in as shown in <link target-id="uid1"/>.</para>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C6_002.png" id="uid1_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_002.eps" id="uid1_printimage"/>
+        </media>
+        <caption>Wavefronts are imaginary lines joining waves that are in phase. In the example, the wavefronts (shown by the grey, vertical lines) join all waves at the crest of their cycle.</caption>
+      </figure>
+      <para id="id62593">We define a <emphasis effect="bold">wavefront</emphasis> as the imaginary line that joins waves that are in phase. These are indicated by the grey, vertical lines in <link target-id="uid1"/>. The points that are in phase can be peaks, troughs or anything in between, it doesn't matter which points you choose as long as they are in phase.</para>
+    </section>
+    <section id="cid4">
+      <title>The Huygens Principle</title>
+      <para id="id62618">Christiaan Huygens described how to determine the path of waves through a medium.</para>
+<definition id="fhsst_id98"><term id="termfhsst_id98"> The Huygens Principle </term> <meaning id="meaningfhsst_id98">
+      <para id="id62628">Each point on a wavefront acts like a point source of circular waves. The waves emitted from these point sources interfere to form another wavefront. </para>
+      </meaning></definition>
+      <para id="id62640">A simple example of the Huygens Principle is to consider the single wavefront in <link target-id="uid2"/>.</para>
+      <figure id="uid2">
+        <media id="uid2_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C6_003.png" id="uid2_onlineimage" width="392"><!-- NOTE: attribute width changes image size online (pixels). original width is 392. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_003.eps" id="uid2_printimage"/>
+        </media>
+        <caption>A single wavefront at time <m:math overflow="scroll"><m:mi>t</m:mi></m:math> acts as a series of point sources of circular waves that interfere to give a new wavefront at a time <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>+</m:mo><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math>. The process continues and applies to any shape of waveform.</caption>
+      </figure>
+<exercise id="secfhsst_id109"><title> Application of the Huygens Principle </title>
+      <problem id="probfhsst_id110">
+      <para id="id62697">Given the wavefront,</para>
+      <para id="id62702">
+        <figure id="id62705">
+          <media id="id62705_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_004.png" id="id62705_onlineimage" width="204"><!-- NOTE: attribute width changes image size online (pixels). original width is 204. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_004.eps" id="id62705_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62711">use the Huygens Principle to determine the wavefront at a later time. </para>
+      </problem>
+      <solution id="solfhsst_id122"> <list id="listfhsst_id122" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Draw circles at various points along the given wavefront </label>
+      <para id="id62732">
+        <figure id="id62735">
+          <media id="id62735_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_005.png" id="id62735_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_005.eps" id="id62735_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Join the crests of each circle to get the wavefront at a later time </label>
+      <para id="id62746">
+        <figure id="id62749">
+          <media id="id62749_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_006.png" id="id62749_onlineimage" width="239"><!-- NOTE: attribute width changes image size online (pixels). original width is 239. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_006.eps" id="id62749_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id144"><title> Interesting Fact </title> Christiaan Huygens (14 April 1629 - 8 July 1695), was a Dutch mathematician, astronomer and physicist; born in The Hague as the son of Constantijn Huygens. He studied law at the University of Leiden and the College of Orange in Breda before turning to science. Historians commonly associate Huygens with the scientific revolution.
+      <para id="id62778">Huygens generally receives minor credit for his role in the development of modern calculus. He also achieved note for his arguments that light consisted of waves; see: wave-particle duality in Chapter <link target-id=""/>. In 1655, he discovered Saturn's moon Titan. He also examined Saturn's planetary rings, and in 1656 he discovered that those rings consisted of rocks. In the same year he observed and sketched the Orion Nebula. He also discovered several interstellar nebulae and some double stars.</para></note>
+    </section>
+    <section id="cid5">
+      <title>Interference</title>
+      <para id="id62798">Interference occurs when two identical waves pass through the same region of space at the same time resulting in a superposition of waves. There are two types of interference which is of interest: <emphasis effect="bold">constructive</emphasis> interference and <emphasis effect="bold">destructive</emphasis> interference.</para>
+      <para id="id62814">Constructive interference occurs when both waves have a displacement in the same direction, while destructive interference occurs when one wave has a displacement in the opposite direction to the other, thereby resulting in a cancellation. When two waves interfere destructively, the resultant absolute displacement of the medium is less than in either of the individual displacements. When <emphasis effect="italics">total</emphasis> destructive interference occurs, there is no displacement of the medium. For constructive interference the displacement of the medium is greater than the individual displacements.</para>
+      <para id="id62827">Constructive interference is the result of two waves with similar phase overlapping. This means that positive parts of one wave tend to overlap with positive parts of the other, and alike for the negative parts. When positive is added to positive and negative is added to negative, the net absolute displacement of the medium is greater than the displacements of the individual waves.</para>
+      <para id="id62833">Destructive interference, on the other hand, is the result of two waves with non-similar phase (i.e. anti-phase) overlapping. This means that the positive parts of one wave tend to align with the negative parts of the second wave. When the waves are added together, the positive and negative contributions lead to a net absolute displacement of the medium which is less than the absolute displacements of either of the individual waves. A place where destructive interference takes place is called a node.</para>
+      <para id="id62841">Waves can interfere at places where there is never a trough and trough or peak and peak or trough and peak at the same time. At these places the waves will add together and the resultant displacement will be the sum of the two waves but they won't be points of maximum interference.</para>
+      <para id="id62847">Consider the two identical waves shown in the picture below. The wavefronts of the peaks are shown as black lines while the wavefronts of the troughs are shown as grey lines. You can see that the black lines cross other black lines in many places. This means two peaks are in the same place at the same time so we will have constructive interference where the two peaks add together to form a bigger peak.</para>
+      <para id="id62853">
+        <figure id="id62856">
+          <media id="id62856_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_007.png" id="id62856_onlineimage" width="388"><!-- NOTE: attribute width changes image size online (pixels). original width is 388. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_007.eps" id="id62856_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62863">Two points sources (A and B) radiate identical waves. The wavefronts of the peaks (black lines) and troughs (grey lines) are shown. Constructive interference occurs where two black lines intersect or where two gray lines intersect. Destructive interference occurs where a black line intersects with a grey line.</para>
+      <para id="id62868">When the grey lines cross other grey lines there are two troughs in the same place at the same time so we will have constructive interference where the two troughs add together to form a bigger trough.</para>
+      <para id="id62874">In the case where a grey line crosses a black line we are seeing a trough and peak at the same time. These will cancel each other out and the medium will have no displacement at that point.</para>
+      <list id="id62878" display="block" list-type="bulleted">
+        <item id="uid3">black line + black line = peak + peak = constructive interference
+</item>
+        <item id="uid4">grey line + grey line = trough + trough = constructive interference
+</item>
+        <item id="uid5">black line + grey line = grey line + black line = peak + trough = trough + peak = destructive interference
+</item>
+      </list>
+      <para id="id62919">On half the picture below, we have marked the constructive interference with a solid black diamond and the destructive interference with a hollow diamond.</para>
+      <para id="id62924">
+        <figure id="id62927">
+          <media id="id62927_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_008.png" id="id62927_onlineimage" width="228"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_008.eps" id="id62927_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62933">To see if you understand it, cover up the half we have marked with diamonds and try to work out which points are constructive and destructive on the other half of the picture. The two halves are mirror images of each other so you can check yourself.</para>
+    </section>
+    <section id="cid6">
+      <title>Diffraction</title>
+      <para id="id62948">One of the most interesting, and also very useful, properties of waves is <emphasis effect="bold">diffraction</emphasis>.</para>
+<definition id="fhsst_id188"><term id="termfhsst_id188"> Diffraction </term> <meaning id="meaningfhsst_id188">
+      <para id="id62963">Diffraction is the ability of a wave to spread out in wavefronts as the wave passes through a small aperture or around a sharp edge. </para>
+      </meaning></definition>
+<section id="secfhsst_id191"><title> Diffraction </title>
+      <para id="id62980">Diffraction refers to various phenomena associated with wave propagation, such as the bending, spreading and interference of waves emerging from an aperture. It occurs with any type of wave, including sound waves, water waves, electromagnetic waves such as light and radio waves. While diffraction always occurs, its effects are generally only noticeable for waves where the wavelength is on the order of the feature size of the diffracting objects or apertures. </para>
+</section>
+      <para id="id62995">For example, if two rooms are connected by an open doorway and a sound is produced in a remote corner of one of them, a person in the other room will hear the sound as if it originated at the doorway.</para>
+      <para id="id63000">
+        <figure id="id63003">
+          <media id="id63003_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C6_009.png" id="id63003_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_009.eps" id="id63003_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id63009">As far as the second room is concerned, the vibrating air in the doorway is the source of the sound. The same is true of light passing the edge of an obstacle, but this is not as easily observed because of the short wavelength of visible light.</para>
+      <para id="id63014">This means that when waves move through small holes they appear to bend around the sides because there are not enough points on the wavefront to form another straight wavefront. This is bending round the sides we call <emphasis effect="italics">diffraction</emphasis>.</para>
+<section id="secfhsst_id205"><title> Diffraction </title>
+      <para id="id63031">Diffraction effects are more clear for water waves with longer wavelengths. Diffraction can be demonstrated by placing small barriers and obstacles in a ripple tank and observing the path of the water waves as they encounter the obstacles. The waves are seen to pass around the barrier into the regions behind it; subsequently the water behind the barrier is disturbed. The amount of diffraction (the sharpness of the bending) increases with increasing wavelength and decreases with decreasing wavelength. In fact, when the wavelength of the waves are smaller than the obstacle, no noticeable diffraction occurs. </para>
+</section>
+<section id="secfhsst_id208"><title> Experiment : Diffraction </title>
+      <para id="id62486">Water waves in a ripple tank can be used to demonstrate diffraction and interference.</para>
+      <list id="id62492" display="block" list-type="bulleted">
+        <item id="uid6">Turn on the wave generator so that it produces waves with a high frequency (short wavelength).
+<list id="id62507" display="block" list-type="bulleted"><item id="uid7">Place a few obstacles, one at a time, (e.g. a brick or a ruler) in the ripple tank. What happens to the wavefronts as they propagate near/past the obstacles? Draw your observations.
+</item><item id="uid8">How does the diffraction change when you change the size of the object?
+</item></list></item>
+        <item id="uid9">Now turn down the frequency of the wave generator so that it produces waves with longer wavelengths.
+<list id="id63185" display="block" list-type="bulleted"><item id="uid10">Place the same obstacles in the ripple tank (one at a time). What happens to the wavefronts as they propagate near/past the obstacles? Draw your observations.
+</item><item id="uid11">How does the diffraction change from the higher frequency case?
+</item></list></item>
+        <item id="uid12">Remove all obstacles from the ripple tank and insert a second wave generator. Turn on both generators so that they start at the same time and have the same frequency.
+<list id="id63227" display="block" list-type="bulleted"><item id="uid13">What do you notice when the two sets of wavefronts meet each other?
+</item><item id="uid14">Can you identify regions of constructive and destructive interference?
+</item></list></item>
+        <item id="uid15">Now turn on the generators so that they are out of phase (i.e. start them so that they do not make waves at exactly the same time).
+<list id="id63267" display="block" list-type="bulleted"><item id="uid16">What do you notice when the two sets of wavefronts meet each other?
+</item><item id="uid17">Can you identify regions of constructive and destructive interference?
+</item></list></item>
+      </list>
+      
+</section>
+      <section id="uid18">
+        <title>Diffraction through a Slit</title>
+        <para id="id63313">When a wave strikes a barrier with a hole only part of the wave can move through the hole. If the hole is similar in size to the wavelength of the wave then diffraction occurs. The waves that come through the hole no longer looks like a straight wave front. It bends around the edges of the hole. If the hole is small enough it acts like a point source of circular waves.</para>
+        <para id="id63320">Now if we allow the wavefront to impinge on a barrier with a hole in it, then only the points on the wavefront that move into the hole can continue emitting forward moving waves - but because a lot of the wavefront has been removed, the points on the edges of the hole emit waves that bend round the edges.</para>
+        <para id="id63326">
+          <figure id="id63329">
+            <media id="id63329_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_010.png" id="id63329_onlineimage" width="213"><!-- NOTE: attribute width changes image size online (pixels). original width is 213. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_010.eps" id="id63329_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63335">If you employ Huygens' principle you can see the effect is that the wavefronts are no longer straight lines.</para>
+        <para id="id63339">
+          <figure id="id63342">
+            <media id="id63342_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_011.png" id="id63342_onlineimage" width="59"><!-- NOTE: attribute width changes image size online (pixels). original width is 59. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_011.eps" id="id63342_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63348">Each point of the slit acts like a point source. If we think about the two point sources on the edges of the slit and call them A and B then we can go back to the diagram we had earlier but with some parts blocked by the wall.</para>
+        <para id="id63353">
+          <figure id="id63356">
+            <media id="id63356_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_012.png" id="id63356_onlineimage" width="229"><!-- NOTE: attribute width changes image size online (pixels). original width is 229. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_012.eps" id="id63356_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63363">If this diagram were showing sound waves then the sound would be louder (constructive interference) in some places and quieter (destructive interference) in others. You can start to see that there will be a pattern (interference pattern) to the louder and quieter places. If we were studying light waves then the light would be brighter in some places than others depending on the interference.</para>
+        <para id="id63369">The intensity (how bright or loud) of the interference pattern for a single narrow slit looks like this:</para>
+        <para id="id63374">
+          <figure id="id63377">
+            <media id="id63377_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_013.png" id="id63377_onlineimage" width="287"><!-- NOTE: attribute width changes image size online (pixels). original width is 287. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_013.eps" id="id63377_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63383">The picture above shows how the waves add together to form the interference pattern. The peaks correspond to places where the waves are adding most intensely and the minima are places where destructive interference is taking place. When looking at interference patterns from light the spectrum looks like:</para>
+        <para id="id63389">
+          <figure id="id63392">
+            <media id="id63392_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_014.png" id="id63392_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 350. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_014.eps" id="id63392_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63398">There is a formula we can use to determine where the peaks and minima are in the interference spectrum. There will be more than one minimum. There are the same number of minima on either side of the central peak and the distances from the first one on each side are the same to the peak. The distances to the peak from the second minimum on each side is also the same, in fact the two sides are mirror images of each other. We label the first minimum that corresponds to a positive angle from the centre as <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> and the first on the other side (a negative angle from the centre) as <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>, the second set of minima are labelled <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:math> etc.</para>
+        <para id="id63463">
+          <figure id="id63466">
+            <media id="id63466_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_016.png" id="id63466_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_016.eps" id="id63466_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63472">The equation for the angle at which the minima occur is given in the definition below:</para>
+<definition id="fhsst_id289"><term id="termfhsst_id289"> Interference Minima </term> <meaning id="meaningfhsst_id289">
+        <para id="id63482">The angle at which the minima in the interference spectrum occur is:</para>
+        <equation id="id63488">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63515">where</para>
+        <para id="id63520"><m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is the angle to the minimum</para>
+        <para id="id63532"><m:math overflow="scroll"><m:mi>a</m:mi></m:math> is the width of the slit</para>
+        <para id="id63544"><m:math overflow="scroll"><m:mi>λ</m:mi></m:math> is the wavelength of the impinging wavefronts</para>
+        <para id="id63557"><m:math overflow="scroll"><m:mi>m</m:mi></m:math> is the order of the mimimum, <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>±</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mo>±</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mo>±</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:math>
+ </para>
+        </meaning></definition>
+<exercise id="secfhsst_id314"><title> Diffraction Minimum I </title>
+        <problem id="probfhsst_id315">
+        <para id="id63623">A slit with a width of 2511 nm has red light of wavelength 650 nm impinge on it. The diffracted light interferes on a surface. At which angle will the first minimum be?  </para>
+        </problem>
+        <solution id="solfhsst_id318"> <list id="listfhsst_id318" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id63646">We know that we are dealing with interference patterns from the diffraction of light passing through a slit. The slit has a width of 2511 nm which is <m:math overflow="scroll"><m:mrow><m:mn>2511</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> and we know that the wavelength of the light is 650 nm which is <m:math overflow="scroll"><m:mrow><m:mn>650</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. We are looking to determine the angle to first minimum so we know that <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>.</para>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id63907">We know that there is a relationship between the slit width, wavelength and interference minimum angles:</para>
+        <equation id="id63912">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63938">We can use this relationship to find the angle to the minimum by substituting what we know and solving for the angle.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id63949">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>650</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>2511</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>650</m:mn>
+                    <m:mn>2511</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>258861012</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>258861012</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mn>15</m:mn>
+                    <m:mi>o</m:mi>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64123">The first minimum is at 15 degrees from the centre peak.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id461"><title> Diffraction Minimum II </title>
+        <problem id="probfhsst_id462">
+        <para id="id64152">A slit with a width of 2511 nm has green light of wavelength 532 nm impinge on it. The diffracted light interferers on a surface, at what angle will the first minimum be?  </para>
+        </problem>
+        <solution id="solfhsst_id465"> <list id="listfhsst_id465" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id64175">We know that we are dealing with interference patterns from the diffraction of light passing through a slit. The slit has a width of 2511 nm which is <m:math overflow="scroll"><m:mrow><m:mn>2511</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> and we know that the wavelength of the light is 532 nm which is <m:math overflow="scroll"><m:mrow><m:mn>532</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. We are looking to determine the angle to first minimum so we know that <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>.</para>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id64256">We know that there is a relationship between the slit width, wavelength and interference minimum angles:</para>
+        <equation id="id64260">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64288">We can use this relationship to find the angle to the minimum by substituting what we know and solving for the angle.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id64298">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>2511</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>532</m:mn>
+                    <m:mn>2511</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>211867782</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>211867782</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>12</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>2</m:mn>
+                      <m:mi>o</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64485">The first minimum is at 12.2 degrees from the centre peak.
+ </para>
+        </item> </list> </solution>
+</exercise>
+        <para id="id64502">From the formula <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>λ</m:mi></m:mrow><m:mi>a</m:mi></m:mfrac></m:mrow></m:math> you can see that a smaller wavelength for the same slit results in a smaller angle to the interference minimum. This is something you just saw in the two worked examples. Do a sanity check, go back and see if the answer makes sense. Ask yourself which light had the longer wavelength, which light had the larger angle and what do you expect for longer wavelengths from the formula.</para>
+<exercise id="secfhsst_id613"><title> Diffraction Minimum III </title>
+        <problem id="probfhsst_id614">
+        <para id="id64549">A slit has a width which is unknown and has green light of wavelength 532 nm impinge on it. The diffracted light interferers on a surface, and the first minimum is measure at an angle of 20.77 degrees?  </para>
+        </problem>
+        <solution id="solfhsst_id617"> <list id="listfhsst_id617" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id64574">We know that we are dealing with interference patterns from the diffraction of light passing through a slit. We know that the wavelength of the light is 532 nm which is <m:math overflow="scroll"><m:mrow><m:mn>532</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. We know the angle to first minimum so we know that <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:mn>20</m:mn><m:mo>.</m:mo><m:msup><m:mn>77</m:mn><m:mi mathvariant="normal">o</m:mi></m:msup></m:mrow></m:math>.</para>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id64654">We know that there is a relationship between the slit width, wavelength and interference minimum angles:</para>
+        <equation id="id64658">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64686">We can use this relationship to find the width by substituting what we know and solving for the width.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id64696">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mn>20</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>77</m:mn>
+                      <m:mi>o</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>532</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>354666667</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1500</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1500</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi> nm </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64895">The slit width is 1500 nm.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section><para id="eip-945"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/wave-interference-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/wave-interference-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/wave-interference/wave-interference_en.jnlp">run demo</link></para>
+    </section>
+    <section id="cid7">
+      <title>Shock Waves and Sonic Booms</title>
+      <para id="id64922">Now we know that the waves move away from the source at the speed of sound. What happens if the source moves at the same time as emitting sounds? Once a sound wave has been emitted it is no longer connected to the source so if the source moves it doesn't change the way the sound wave is propagating through the medium. This means a source can actually catch up to the sound waves it has emitted.</para>
+      <para id="id64929">The speed of sound is very fast in air, about <m:math overflow="scroll"><m:mrow><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, so if we want to talk about a source catching up to sound waves then the source has to be able to move very fast. A good source of sound waves to discuss is a jet aircraft. Fighter jets can move very fast and they are very noisy so they are a good source of sound for our discussion. Here are the speeds for a selection of aircraft that can fly faster than the speed of sound.</para>
+      <table id="uid19" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>Aircraft</entry>
+              <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+              <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+            </row>
+            <row>
+              <entry>Concorde</entry>
+              <entry>2 330</entry>
+              <entry>647</entry>
+            </row>
+            <row>
+              <entry>Gripen</entry>
+              <entry>2 410</entry>
+              <entry>669</entry>
+            </row>
+            <row>
+              <entry>Mirage F1</entry>
+              <entry>2 573</entry>
+              <entry>715</entry>
+            </row>
+            <row>
+              <entry>Mig 27</entry>
+              <entry>1 885</entry>
+              <entry>524</entry>
+            </row>
+            <row>
+              <entry>F 15</entry>
+              <entry>2 660</entry>
+              <entry>739</entry>
+            </row>
+            <row>
+              <entry>F 16</entry>
+              <entry>2 414</entry>
+              <entry>671</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="uid20">
+        <title>Subsonic Flight</title>
+<definition id="fhsst_id824"><term id="termfhsst_id824"> Subsonic </term> <meaning id="meaningfhsst_id824">
+        <para id="id65254">Subsonic refers to speeds slower than the speed of sound. </para>
+        </meaning></definition>
+        <para id="id65266">When a source emits sound waves and is moving slower than the speed of sound you get the situation in this picture. Notice that the source moving means that the wavefronts, and therefore peaks in the wave, are actually closer together in the one direction and further apart in the other.</para>
+        <para id="id65272">
+          <figure id="id65275">
+            <media id="id65275_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_021.png" id="id65275_onlineimage" width="73"><!-- NOTE: attribute width changes image size online (pixels). original width is 73. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_021.eps" id="id65275_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id65282">If you measure the waves on the side where the peaks are closer together you'll measure a different wavelength than on the other side of the source. This means that the noise from the source will sound different on the different sides. This is called the <emphasis effect="italics">Doppler Effect</emphasis>.</para>
+<definition id="fhsst_id837"><term id="termfhsst_id837"> Doppler Effect </term> <meaning id="meaningfhsst_id837">
+        <para id="id65299">when the wavelength and frequency measured by an observer are different to those emitted by the source due to movement of the source or observer. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid21">
+        <title>Supersonic Flight</title>
+<definition id="fhsst_id843"><term id="termfhsst_id843"> Supersonic </term> <meaning id="meaningfhsst_id843">
+        <para id="id65328">Supersonic refers to speeds faster than the speed of sound. </para>
+        </meaning></definition>
+        <para id="id65340">If a plane flies at exactly the speed of sound then the waves that it emits in the direction it is flying won't be able to get away from the plane. It also means that the next sound wave emitted will be exactly on top of the previous one, look at this picture to see what the wavefronts would look like:</para>
+        <para id="id65346">
+          <figure id="id65349">
+            <media id="id65349_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_022.png" id="id65349_onlineimage" width="98"><!-- NOTE: attribute width changes image size online (pixels). original width is 98. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_022.eps" id="id65349_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id65356">Sometimes we use the speed of sound as a reference to describe the speed of the object (aircraft in our discussion).</para>
+<definition id="fhsst_id856"><term id="termfhsst_id856"> Mach Number </term> <meaning id="meaningfhsst_id856">
+        <para id="id65366">The Mach Number is the ratio of the speed of an object to the speed of sound in the surrounding medium. </para>
+        </meaning></definition>
+        <para id="id65379">Mach number is tells you how many times faster than sound the aircraft is moving.</para>
+        <list id="id65383" display="block" list-type="bulleted">
+          <item id="uid22">Mach Number <m:math overflow="scroll"><m:mo>&lt;</m:mo></m:math> 1 : aircraft moving slower than the speed of sound
+</item>
+          <item id="uid23">Mach Number <m:math overflow="scroll"><m:mo>=</m:mo></m:math> 1 : aircraft moving at the speed of sound
+</item>
+          <item id="uid24">Mach Number <m:math overflow="scroll"><m:mo>&gt;</m:mo></m:math> 1 : aircraft moving faster than the speed of sound
+</item>
+        </list>
+        <para id="id65452">To work out the Mach Number divide the speed of the aircraft by the speed of sound.</para>
+        <equation id="id65456">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Mach </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> Number </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> aircraft </m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> sound </m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65498"><emphasis effect="bold">Remember:</emphasis> the units must be the same before you divide.</para>
+        <para id="id65509">If the aircraft is moving faster than the speed of sound then the wavefronts look like this:</para>
+        <para id="id65513">
+          <figure id="id65517">
+            <media id="id65517_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_023.png" id="id65517_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_023.eps" id="id65517_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id65523">If the source moves faster than the speed of sound, a cone of wave fronts is created. This is called a Mach cone. From constructive interference, we know that two peaks that add together form a larger peak. In a Mach cone many, many peaks add together to form a very large peak. This is a sound wave so the large peak is a very, very loud sound wave. This sounds like a huge "boom" and we call the noise a <emphasis effect="italics">sonic boom</emphasis>.</para>
+<definition id="fhsst_id902"><term id="termfhsst_id902"> Sonic Boom </term> <meaning id="meaningfhsst_id902">
+        <para id="id65542">A sonic boom is the sound heard by an observer as a shockwave passes. </para>
+        </meaning></definition>
+<exercise id="secfhsst_id905"><title> Mach Speed I </title>
+        <problem id="probfhsst_id906">
+        <para id="id65567">An aircraft flies at 1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and the speed of sound in air is <m:math overflow="scroll"><m:mrow><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. What is the Mach Number of the aircraft? </para>
+        </problem>
+        <solution id="solfhsst_id909"> <list id="listfhsst_id909" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you are given </label>
+        <para id="id65650">We know we are dealing with Mach Number. We are given the speed of sound in air, <m:math overflow="scroll"><m:mrow><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, and the speed of the aircraft, 1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The speed of the aircraft is in different units to the speed of sound so we need to convert the units:</para>
+        <equation id="id65714">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1000</m:mn>
+                        <m:mi mathvariant="normal">m</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>3600</m:mn>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1300</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi> km </m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">h</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>361</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id65907">We know that there is a relationship between the Mach Number, the speed of sound and the speed of the aircraft:</para>
+        <equation id="id65911">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Mach </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> Number </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> aircraft </m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> sound </m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65954">We can use this relationship to find the Mach Number.</para>
+        </item> <item> <label> Substitution </label>
+        <equation id="id65964">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>361</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mn>340</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>06</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66098">The Mach Number is 1.06.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1148"><title> Mach Number </title>
+        <para id="id66123">In this exercise we will determine the Mach Number for the different aircraft in the previous table. To help you get started we have calculated the Mach Number for the Concord with a speed of sound <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mi>s</m:mi><m:mi>o</m:mi><m:mi>u</m:mi><m:mi>n</m:mi><m:mi>d</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi> ms </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>.</para>
+        <para id="id66175">For the Condorde we know the speed and we know that:</para>
+        <equation id="id66179">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> Mach </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> Number </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> aircraft </m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi mathvariant="normal">v</m:mi>
+                  <m:mi> sound </m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id66221">For the Concorde this means that</para>
+        <equation id="id66227">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Mach </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Number </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>647</m:mn>
+                    <m:mn>340</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <table id="uid25" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>Aircraft</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>Mach Number</entry>
+              </row>
+              <row>
+                <entry>Concorde</entry>
+                <entry>2 330</entry>
+                <entry>647</entry>
+                <entry>1.9</entry>
+              </row>
+              <row>
+                <entry>Gripen</entry>
+                <entry>2 410</entry>
+                <entry>669</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mirage F1</entry>
+                <entry>2 573</entry>
+                <entry>715</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mig 27</entry>
+                <entry>1 885</entry>
+                <entry>524</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 15</entry>
+                <entry>2 660</entry>
+                <entry>739</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 16</entry>
+                <entry>2 414</entry>
+                <entry>671</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id66599">Now calculate the Mach Numbers for the other aircraft in the table.
+ </para>
+</section>
+      </section>
+      <section id="uid26">
+        <title>Mach Cone</title>
+        <para id="id66619">The shape of the Mach Cone depends on the speed of the aircraft. When the Mach Number is 1 there is no cone but as the aircraft goes faster and faster the angle of the cone gets smaller and smaller.</para>
+        <para id="id66624">If we go back to the supersonic picture we can work out what the angle of the cone must be.</para>
+        <para id="id66628">
+          <figure id="id66631">
+            <media id="id66631_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_024.png" id="id66631_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_024.eps" id="id66631_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id66638">We build a triangle between how far the plane has moved and how far a wavefront at right angles to the direction the plane is flying has moved:</para>
+        <para id="id66642">An aircraft emits a sound wavefront. The wavefront moves at the speed of sound 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and the aircraft moves at Mach 1.5, which is <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mspace width="4pt"/><m:mo>×</m:mo><m:mspace width="4pt"/><m:mn>340</m:mn><m:mo>=</m:mo><m:mn>510</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. The aircraft travels faster than the wavefront. If we let the wavefront travel for a time <m:math overflow="scroll"><m:mi>t</m:mi></m:math> then the following diagram will apply:</para>
+        <para id="id66738">
+          <figure id="id66741">
+            <media id="id66741_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_025.png" id="id66741_onlineimage" width="164"><!-- NOTE: attribute width changes image size online (pixels). original width is 164. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_025.eps" id="id66741_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id66747">We know how fast the wavefront and the aircraft are moving so we know the distances that they have traveled:</para>
+        <para id="id66751">
+          <figure id="id66754">
+            <media id="id66754_media" alt="">
+              <image mime-type="image/png" src="../../media/PG12C6_026.png" id="id66754_onlineimage" width="294"><!-- NOTE: attribute width changes image size online (pixels). original width is 294. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_026.eps" id="id66754_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id66761">The angle between the cone that forms and the direction of the plane can be found from the right-angle triangle we have drawn into the figure. We know that <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi> opposite </m:mi><m:mi> hypotenuse </m:mi></m:mfrac></m:mrow></m:math> which in this figure means:</para>
+        <equation id="id66789">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi> opposite </m:mi>
+                    <m:mi> hypotenuse </m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>s</m:mi>
+                          <m:mi>o</m:mi>
+                          <m:mi>u</m:mi>
+                          <m:mi>n</m:mi>
+                          <m:mi>d</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>×</m:mo>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>a</m:mi>
+                          <m:mi>i</m:mi>
+                          <m:mi>r</m:mi>
+                          <m:mi>c</m:mi>
+                          <m:mi>r</m:mi>
+                          <m:mi>a</m:mi>
+                          <m:mi>f</m:mi>
+                          <m:mi>t</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>×</m:mo>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66961">In this case we have used sound and aircraft but a more general way of saying this is:</para>
+        <list id="id66965" display="block" list-type="bulleted">
+          <item id="uid27">aircraft = source
+</item>
+          <item id="uid28">sound = wavefront
+</item>
+        </list>
+        <para id="id66994">We often just write the equation as:</para>
+        <equation id="id66997">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>s</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>u</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>s</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>u</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>c</m:mi>
+                        <m:mi>e</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>w</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>v</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:msub>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>w</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id67228">From this equation, we can see that the faster the source (aircraft) moves, the smaller the angle of the Mach cone.</para>
+<section id="secfhsst_id1550"><title> Mach Cone </title>
+        <para id="id67239">In this exercise we will determine the Mach Cone Angle for the different aircraft in the table mentioned above. To help you get started we have calculated the Mach Cone Angle for the Concorde with a speed of sound <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mi>s</m:mi><m:mi>o</m:mi><m:mi>u</m:mi><m:mi>n</m:mi><m:mi>d</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>340</m:mn><m:mspace width="4pt"/><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>.</para>
+        <para id="id67299">For the Condorde we know the speed and we know that:</para>
+        <equation id="id67303">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mrow>
+                    <m:mi>s</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>u</m:mi>
+                    <m:mi>n</m:mi>
+                    <m:mi>d</m:mi>
+                  </m:mrow>
+                </m:msub>
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mi>i</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mi>c</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mi>a</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67364">For the Concorde this means that</para>
+        <equation id="id67370">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>340</m:mn>
+                    <m:mn>647</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mfrac>
+                      <m:mn>340</m:mn>
+                      <m:mn>647</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>θ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>31</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mn>7</m:mn>
+                      <m:mi mathvariant="normal">o</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <table id="uid29" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>Aircraft</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>speed at altitude (<m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>Mach Cone Angle (degrees)</entry>
+              </row>
+              <row>
+                <entry>Concorde</entry>
+                <entry>2 330</entry>
+                <entry>647</entry>
+                <entry>31.7</entry>
+              </row>
+              <row>
+                <entry>Gripen</entry>
+                <entry>2 410</entry>
+                <entry>669</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mirage F1</entry>
+                <entry>2 573</entry>
+                <entry>715</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mig 27</entry>
+                <entry>1 885</entry>
+                <entry>524</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 15</entry>
+                <entry>2 660</entry>
+                <entry>739</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>F 16</entry>
+                <entry>2 414</entry>
+                <entry>671</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id67788">Now calculate the Mach Cone Angles for the other aircraft in the table.
+ </para>
+</section>
+      </section>
+    </section>
+    <section id="cid8">
+      <title>End of Chapter Exercises</title>
+      <list id="id67808" display="block" list-type="enumerated">
+        <item id="uid30">In the diagram below the peaks of wavefronts are shown by black lines and the troughs by grey lines. Mark all the points where constructive interference between two waves is taking place and where destructive interference is taking place. Also note whether the interference results in a peak or a trough.
+<figure id="id67829"><media id="id67829_media" alt=""><image mime-type="image/png" src="../../media/PG12C6_027.png" id="id67829_onlineimage" width="307"><!-- NOTE: attribute width changes image size online (pixels). original width is 307. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG12C6_027.eps" id="id67829_printimage"/></media></figure></item>
+        <item id="uid31">For a slit of width 1300 nm, calculate the first 3 minima for light of the following wavelengths:
+<list id="id67848" display="block" list-type="enumerated"><item id="uid32">blue at 475 nm
+</item><item id="uid33">green at 510 nm
+</item><item id="uid34">yellow at 570 nm
+</item><item id="uid35">red at 650 nm
+</item></list></item>
+        <item id="uid36">For light of wavelength 540 nm, determine what the width of the slit needs to be to have the first minimum at:
+<list id="id67914" display="block" list-type="enumerated"><item id="uid37">7.76 degrees
+</item><item id="uid38">12.47 degrees
+</item><item id="uid39">21.1 degrees
+</item></list></item>
+        <item id="uid40">For light of wavelength 635 nm, determine what the width of the slit needs to be to have the second minimum at:
+<list id="id67968" display="block" list-type="enumerated"><item id="uid41">12.22 degrees
+</item><item id="uid42">18.51 degrees
+</item><item id="uid43">30.53 degrees
+</item></list></item>
+        <item id="uid44">If the first minimum is at 8.21 degrees and the second minimum is at 16.6 degrees, what is the wavelength of light and the width of the slit? (<emphasis effect="bold">Hint:</emphasis> solve simultaneously.)
+</item>
+        <item id="uid45">Determine the Mach Number, with a speed of sound of 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, for the following aircraft speeds:
+<list id="id68068" display="block" list-type="enumerated"><item id="uid46">640 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid47">980 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid48">500 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid49">450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid50">1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid51">1450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid52">1760 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item></list></item>
+        <item id="uid53">If an aircraft has a Mach Number of 3.3 and the speed of sound is 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, what is its speed?
+</item>
+        <item id="uid54">Determine the Mach Cone angle, with a speed of sound of 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, for the following aircraft speeds:
+<list id="id68415" display="block" list-type="enumerated"><item id="uid55">640 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid56">980 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid57">500 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid58">450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid59">1300 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid60">1450 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid61">1760 <m:math overflow="scroll"><m:msup><m:mrow><m:mi> km </m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item></list></item>
+        <item id="uid62">Determine the aircraft speed, with a speed of sound of 340 <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, for the following Mach Cone Angles:
+<list id="id68721" display="block" list-type="enumerated"><item id="uid63">58.21 degrees
+</item><item id="uid64">49.07 degrees
+</item><item id="uid65">45.1 degrees
+</item><item id="uid66">39.46 degrees
+</item><item id="uid67">31.54 degrees
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>
